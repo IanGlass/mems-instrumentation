@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=STUB4 Pin=H1-0
+Removed Pin From Net: NetName=STUB3 Pin=H1-1
+Removed Pin From Net: NetName=STUB1 Pin=H1-2
+Removed Pin From Net: NetName=STUB2 Pin=H1-3
+Change Component DesignItemId : Designator=H1 Old DesignItemId=Header1x4 New DesignItemId=XG4C26
+Change Component Footprint: Designator=H1 Old Footprint=Header1x4 New Footprint=XG4C26
+Change Component Comment : Designator=H1 Old Comment=Header1x4 New Comment=XG4C26
+Added Component: Designator=H1(Header1x4)
+Added Pin To Net: NetName=STUB4 Pin=H1-0
+Added Pin To Net: NetName=PRESSURE 1 Pin=H1-1
+Added Pin To Net: NetName=STUB3 Pin=H1-1
+Added Pin To Net: NetName=PRESSURE 2 Pin=H1-2
+Added Pin To Net: NetName=STUB1 Pin=H1-2
+Added Pin To Net: NetName=PRESSURE 3 Pin=H1-3
+Added Pin To Net: NetName=STUB2 Pin=H1-3
+Added Member To Class: ClassName=Stub Tester Member=Component H1 XG4C26
+Added Room: Name=Standard Bridge Board

@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=R1 Old Footprint=0603 MINI New Footprint=RT0603 330k
+Added Component: Designator=R0(RT0603 330k)
+Added Component: Designator=R2(RT0603 330k)
+Added Pin To Net: NetName=NetR0_0 Pin=R0-0
+Added Pin To Net: NetName=VCC+ Pin=R0-1
+Added Pin To Net: NetName=NetR1_0 Pin=R1-0
+Added Pin To Net: NetName=PRESSURE OUT Pin=R2-0
+Added Pin To Net: NetName=NetPGA204_11 Pin=R2-1
+Added Member To Class: ClassName=Stub Tester 2 Member=Component R0 RT0603 330k
+Added Member To Class: ClassName=Stub Tester 2 Member=Component R2 RT0603 330k

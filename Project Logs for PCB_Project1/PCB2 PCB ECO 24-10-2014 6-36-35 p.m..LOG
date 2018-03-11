@@ -1,0 +1,171 @@
+Added Component: Designator=S1(MS5611)
+Added Component: Designator=S2(MS5611)
+Added Component: Designator=S3(MS5611)
+Added Component: Designator=S4(MS5611)
+Added Component: Designator=S5(MS5611)
+Added Component: Designator=S6(MS5611)
+Added Component: Designator=S7(MS5611)
+Added Component: Designator=S8(MS5611)
+Added Component: Designator=S9(MS5611)
+Added Component: Designator=S10(MS5611)
+Added Component: Designator=S11(MS5803)
+Added Component: Designator=S12(MS5803)
+Added Component: Designator=S13(MS5803)
+Added Component: Designator=S14(MS5803)
+Added Component: Designator=S15(MS5803)
+Added Component: Designator=S16(MS5803)
+Added Component: Designator=S17(MS5803)
+Added Component: Designator=S18(MS5803)
+Added Component: Designator=S19(MS5803)
+Added Component: Designator=S20(MS5803)
+Added Pin To Net: NetName=VCC+ Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=CS1 Pin=S1-4
+Added Pin To Net: NetName=CS1 Pin=S1-5
+Added Pin To Net: NetName=MOSI Pin=S1-6
+Added Pin To Net: NetName=MISO Pin=S1-7
+Added Pin To Net: NetName=SCLK Pin=S1-8
+Added Pin To Net: NetName=VCC+ Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-3
+Added Pin To Net: NetName=CS2 Pin=S2-4
+Added Pin To Net: NetName=CS2 Pin=S2-5
+Added Pin To Net: NetName=MOSI Pin=S2-6
+Added Pin To Net: NetName=MISO Pin=S2-7
+Added Pin To Net: NetName=SCLK Pin=S2-8
+Added Pin To Net: NetName=VCC+ Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S3-3
+Added Pin To Net: NetName=CS3 Pin=S3-4
+Added Pin To Net: NetName=CS3 Pin=S3-5
+Added Pin To Net: NetName=MOSI Pin=S3-6
+Added Pin To Net: NetName=MISO Pin=S3-7
+Added Pin To Net: NetName=SCLK Pin=S3-8
+Added Pin To Net: NetName=VCC+ Pin=S4-1
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=GND Pin=S4-3
+Added Pin To Net: NetName=CS4 Pin=S4-4
+Added Pin To Net: NetName=CS4 Pin=S4-5
+Added Pin To Net: NetName=MOSI Pin=S4-6
+Added Pin To Net: NetName=MISO Pin=S4-7
+Added Pin To Net: NetName=SCLK Pin=S4-8
+Added Pin To Net: NetName=VCC+ Pin=S5-1
+Added Pin To Net: NetName=GND Pin=S5-2
+Added Pin To Net: NetName=GND Pin=S5-3
+Added Pin To Net: NetName=CS5 Pin=S5-4
+Added Pin To Net: NetName=CS5 Pin=S5-5
+Added Pin To Net: NetName=MOSI Pin=S5-6
+Added Pin To Net: NetName=MISO Pin=S5-7
+Added Pin To Net: NetName=SCLK Pin=S5-8
+Added Pin To Net: NetName=VCC+ Pin=S6-1
+Added Pin To Net: NetName=GND Pin=S6-2
+Added Pin To Net: NetName=GND Pin=S6-3
+Added Pin To Net: NetName=CS6 Pin=S6-4
+Added Pin To Net: NetName=CS6 Pin=S6-5
+Added Pin To Net: NetName=MOSI Pin=S6-6
+Added Pin To Net: NetName=MISO Pin=S6-7
+Added Pin To Net: NetName=SCLK Pin=S6-8
+Added Pin To Net: NetName=VCC+ Pin=S7-1
+Added Pin To Net: NetName=GND Pin=S7-2
+Added Pin To Net: NetName=GND Pin=S7-3
+Added Pin To Net: NetName=CS7 Pin=S7-4
+Added Pin To Net: NetName=CS7 Pin=S7-5
+Added Pin To Net: NetName=MOSI Pin=S7-6
+Added Pin To Net: NetName=MISO Pin=S7-7
+Added Pin To Net: NetName=SCLK Pin=S7-8
+Added Pin To Net: NetName=VCC+ Pin=S8-1
+Added Pin To Net: NetName=GND Pin=S8-2
+Added Pin To Net: NetName=GND Pin=S8-3
+Added Pin To Net: NetName=CS8 Pin=S8-4
+Added Pin To Net: NetName=CS8 Pin=S8-5
+Added Pin To Net: NetName=MOSI Pin=S8-6
+Added Pin To Net: NetName=MISO Pin=S8-7
+Added Pin To Net: NetName=SCLK Pin=S8-8
+Added Pin To Net: NetName=VCC+ Pin=S9-1
+Added Pin To Net: NetName=GND Pin=S9-2
+Added Pin To Net: NetName=GND Pin=S9-3
+Added Pin To Net: NetName=CS9 Pin=S9-4
+Added Pin To Net: NetName=CS9 Pin=S9-5
+Added Pin To Net: NetName=MOSI Pin=S9-6
+Added Pin To Net: NetName=MISO Pin=S9-7
+Added Pin To Net: NetName=SCLK Pin=S9-8
+Added Pin To Net: NetName=VCC+ Pin=S10-1
+Added Pin To Net: NetName=GND Pin=S10-2
+Added Pin To Net: NetName=GND Pin=S10-3
+Added Pin To Net: NetName=CS10 Pin=S10-4
+Added Pin To Net: NetName=CS10 Pin=S10-5
+Added Pin To Net: NetName=MOSI Pin=S10-6
+Added Pin To Net: NetName=MISO Pin=S10-7
+Added Pin To Net: NetName=SCLK Pin=S10-8
+Added Pin To Net: NetName=SCLK Pin=S11-1
+Added Pin To Net: NetName=GND Pin=S11-2
+Added Pin To Net: NetName=CS11 Pin=S11-3
+Added Pin To Net: NetName=VCC+ Pin=S11-5
+Added Pin To Net: NetName=GND Pin=S11-6
+Added Pin To Net: NetName=MISO Pin=S11-7
+Added Pin To Net: NetName=MOSI Pin=S11-8
+Added Pin To Net: NetName=SCLK Pin=S12-1
+Added Pin To Net: NetName=GND Pin=S12-2
+Added Pin To Net: NetName=CS12 Pin=S12-3
+Added Pin To Net: NetName=VCC+ Pin=S12-5
+Added Pin To Net: NetName=GND Pin=S12-6
+Added Pin To Net: NetName=MISO Pin=S12-7
+Added Pin To Net: NetName=MOSI Pin=S12-8
+Added Pin To Net: NetName=GND Pin=S13-2
+Added Pin To Net: NetName=CS13 Pin=S13-3
+Added Pin To Net: NetName=VCC+ Pin=S13-5
+Added Pin To Net: NetName=GND Pin=S13-6
+Added Pin To Net: NetName=MISO Pin=S13-7
+Added Pin To Net: NetName=MOSI Pin=S13-8
+Added Pin To Net: NetName=SCLK Pin=S14-1
+Added Pin To Net: NetName=GND Pin=S14-2
+Added Pin To Net: NetName=CS14 Pin=S14-3
+Added Pin To Net: NetName=VCC+ Pin=S14-5
+Added Pin To Net: NetName=GND Pin=S14-6
+Added Pin To Net: NetName=MISO Pin=S14-7
+Added Pin To Net: NetName=MOSI Pin=S14-8
+Added Pin To Net: NetName=SCLK Pin=S15-1
+Added Pin To Net: NetName=GND Pin=S15-2
+Added Pin To Net: NetName=CS15 Pin=S15-3
+Added Pin To Net: NetName=VCC+ Pin=S15-5
+Added Pin To Net: NetName=GND Pin=S15-6
+Added Pin To Net: NetName=MISO Pin=S15-7
+Added Pin To Net: NetName=MOSI Pin=S15-8
+Added Pin To Net: NetName=SCLK Pin=S16-1
+Added Pin To Net: NetName=GND Pin=S16-2
+Added Pin To Net: NetName=CS16 Pin=S16-3
+Added Pin To Net: NetName=VCC+ Pin=S16-5
+Added Pin To Net: NetName=GND Pin=S16-6
+Added Pin To Net: NetName=MISO Pin=S16-7
+Added Pin To Net: NetName=MOSI Pin=S16-8
+Added Pin To Net: NetName=SCLK Pin=S17-1
+Added Pin To Net: NetName=GND Pin=S17-2
+Added Pin To Net: NetName=CS17 Pin=S17-3
+Added Pin To Net: NetName=VCC+ Pin=S17-5
+Added Pin To Net: NetName=GND Pin=S17-6
+Added Pin To Net: NetName=MISO Pin=S17-7
+Added Pin To Net: NetName=MOSI Pin=S17-8
+Added Pin To Net: NetName=SCLK Pin=S18-1
+Added Pin To Net: NetName=GND Pin=S18-2
+Added Pin To Net: NetName=CS18 Pin=S18-3
+Added Pin To Net: NetName=VCC+ Pin=S18-5
+Added Pin To Net: NetName=GND Pin=S18-6
+Added Pin To Net: NetName=MISO Pin=S18-7
+Added Pin To Net: NetName=MOSI Pin=S18-8
+Added Pin To Net: NetName=SCLK Pin=S19-1
+Added Pin To Net: NetName=GND Pin=S19-2
+Added Pin To Net: NetName=CS19 Pin=S19-3
+Added Pin To Net: NetName=VCC+ Pin=S19-5
+Added Pin To Net: NetName=GND Pin=S19-6
+Added Pin To Net: NetName=MISO Pin=S19-7
+Added Pin To Net: NetName=MOSI Pin=S19-8
+Added Pin To Net: NetName=SCLK Pin=S20-1
+Added Pin To Net: NetName=GND Pin=S20-2
+Added Pin To Net: NetName=CS20 Pin=S20-3
+Added Pin To Net: NetName=VCC+ Pin=S20-5
+Added Pin To Net: NetName=GND Pin=S20-6
+Added Pin To Net: NetName=MISO Pin=S20-7
+Added Pin To Net: NetName=MOSI Pin=S20-8
+Added Class: Name=Commercial
+Added Room: Name=Commercial

@@ -1,0 +1,2 @@
+Change Class Name : Old Net Name=Components Class 1 New Net Name=Stub Tester
+Change Room Scope: Old Scope=InComponentClass('Components Class 1') New Scope=InComponentClass('Stub Tester')

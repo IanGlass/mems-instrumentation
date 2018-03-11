@@ -1,0 +1,134 @@
+Added Member To Class: ClassName=Stub Tester Member=Component C1 1nF
+Added Member To Class: ClassName=Stub Tester Member=Component C2 100nF
+Added Member To Class: ClassName=Stub Tester Member=Component C3 1nF
+Added Member To Class: ClassName=Stub Tester Member=Component C4 100nF
+Added Member To Class: ClassName=Stub Tester Member=Component C5 1uF
+Added Member To Class: ClassName=Stub Tester Member=Component C6 10uF
+Added Member To Class: ClassName=Stub Tester Member=Component C7 1uF
+Added Member To Class: ClassName=Stub Tester Member=Component C8 0.015uF
+Added Member To Class: ClassName=Stub Tester Member=Component C9 4.7uF
+Added Member To Class: ClassName=C1 Member=Component C10_C1 (C10) C0603 1uF
+Added Member To Class: ClassName=C2 Member=Component C10_C2 (C10) C0603 1uF
+Added Member To Class: ClassName=C3 Member=Component C10_C3 (C10) C0603 1uF
+Added Member To Class: ClassName=C4 Member=Component C10_C4 (C10) C0603 1uF
+Added Member To Class: ClassName=C5 Member=Component C10_C5 (C10) C0603 1uF
+Added Member To Class: ClassName=C6 Member=Component C10_C6 (C10) C0603 1uF
+Added Member To Class: ClassName=C7 Member=Component C10_C7 (C10) C0603 1uF
+Added Member To Class: ClassName=C8 Member=Component C10_C8 (C10) C0603 1uF
+Added Member To Class: ClassName=C9 Member=Component C10_C9 (C10) C0603 1uF
+Added Member To Class: ClassName=C10 Member=Component C10_C10 (C10) C0603 1uF
+Added Member To Class: ClassName=C11 Member=Component C10_C11 (C10) C0603 1uF
+Added Member To Class: ClassName=C12 Member=Component C10_C12 (C10) C0603 1uF
+Added Member To Class: ClassName=C13 Member=Component C10_C13 (C10) C0603 1uF
+Added Member To Class: ClassName=C14 Member=Component C10_C14 (C10) C0603 1uF
+Added Member To Class: ClassName=C15 Member=Component C10_C15 (C10) C0603 1uF
+Added Member To Class: ClassName=C16 Member=Component C10_C16 (C10) C0603 1uF
+Added Member To Class: ClassName=C17 Member=Component C10_C17 (C10) C0603 1uF
+Added Member To Class: ClassName=C18 Member=Component C10_C18 (C10) C0603 1uF
+Added Member To Class: ClassName=C19 Member=Component C10_C19 (C10) C0603 1uF
+Added Member To Class: ClassName=C20 Member=Component C10_C20 (C10) C0603 1uF
+Added Member To Class: ClassName=C1 Member=Component C11_C1 (C11) 1uF
+Added Member To Class: ClassName=C2 Member=Component C11_C2 (C11) 1uF
+Added Member To Class: ClassName=C3 Member=Component C11_C3 (C11) 1uF
+Added Member To Class: ClassName=C4 Member=Component C11_C4 (C11) 1uF
+Added Member To Class: ClassName=C5 Member=Component C11_C5 (C11) 1uF
+Added Member To Class: ClassName=C6 Member=Component C11_C6 (C11) 1uF
+Added Member To Class: ClassName=C7 Member=Component C11_C7 (C11) 1uF
+Added Member To Class: ClassName=C8 Member=Component C11_C8 (C11) 1uF
+Added Member To Class: ClassName=C9 Member=Component C11_C9 (C11) 1uF
+Added Member To Class: ClassName=C10 Member=Component C11_C10 (C11) 1uF
+Added Member To Class: ClassName=C11 Member=Component C11_C11 (C11) 1uF
+Added Member To Class: ClassName=C12 Member=Component C11_C12 (C11) 1uF
+Added Member To Class: ClassName=C13 Member=Component C11_C13 (C11) 1uF
+Added Member To Class: ClassName=C14 Member=Component C11_C14 (C11) 1uF
+Added Member To Class: ClassName=C15 Member=Component C11_C15 (C11) 1uF
+Added Member To Class: ClassName=C16 Member=Component C11_C16 (C11) 1uF
+Added Member To Class: ClassName=C17 Member=Component C11_C17 (C11) 1uF
+Added Member To Class: ClassName=C18 Member=Component C11_C18 (C11) 1uF
+Added Member To Class: ClassName=C19 Member=Component C11_C19 (C11) 1uF
+Added Member To Class: ClassName=C20 Member=Component C11_C20 (C11) 1uF
+Added Member To Class: ClassName=C1 Member=Component C12_C1 (C12) C0603 1uF
+Added Member To Class: ClassName=C2 Member=Component C12_C2 (C12) C0603 1uF
+Added Member To Class: ClassName=C3 Member=Component C12_C3 (C12) C0603 1uF
+Added Member To Class: ClassName=C4 Member=Component C12_C4 (C12) C0603 1uF
+Added Member To Class: ClassName=C5 Member=Component C12_C5 (C12) C0603 1uF
+Added Member To Class: ClassName=C6 Member=Component C12_C6 (C12) C0603 1uF
+Added Member To Class: ClassName=C7 Member=Component C12_C7 (C12) C0603 1uF
+Added Member To Class: ClassName=C8 Member=Component C12_C8 (C12) C0603 1uF
+Added Member To Class: ClassName=C9 Member=Component C12_C9 (C12) C0603 1uF
+Added Member To Class: ClassName=C10 Member=Component C12_C10 (C12) C0603 1uF
+Added Member To Class: ClassName=C11 Member=Component C12_C11 (C12) C0603 1uF
+Added Member To Class: ClassName=C12 Member=Component C12_C12 (C12) C0603 1uF
+Added Member To Class: ClassName=C13 Member=Component C12_C13 (C12) C0603 1uF
+Added Member To Class: ClassName=C14 Member=Component C12_C14 (C12) C0603 1uF
+Added Member To Class: ClassName=C15 Member=Component C12_C15 (C12) C0603 1uF
+Added Member To Class: ClassName=C16 Member=Component C12_C16 (C12) C0603 1uF
+Added Member To Class: ClassName=C17 Member=Component C12_C17 (C12) C0603 1uF
+Added Member To Class: ClassName=C18 Member=Component C12_C18 (C12) C0603 1uF
+Added Member To Class: ClassName=C19 Member=Component C12_C19 (C12) C0603 1uF
+Added Member To Class: ClassName=C20 Member=Component C12_C20 (C12) C0603 1uF
+Added Member To Class: ClassName=C1 Member=Component H1_C1 (H1) Die Stub H
+Added Member To Class: ClassName=C2 Member=Component H1_C2 (H1) Die Stub H
+Added Member To Class: ClassName=C3 Member=Component H1_C3 (H1) Die Stub H
+Added Member To Class: ClassName=C4 Member=Component H1_C4 (H1) Die Stub H
+Added Member To Class: ClassName=C5 Member=Component H1_C5 (H1) Die Stub H
+Added Member To Class: ClassName=C6 Member=Component H1_C6 (H1) Die Stub H
+Added Member To Class: ClassName=C7 Member=Component H1_C7 (H1) Die Stub H
+Added Member To Class: ClassName=C8 Member=Component H1_C8 (H1) Die Stub H
+Added Member To Class: ClassName=C9 Member=Component H1_C9 (H1) Die Stub H
+Added Member To Class: ClassName=C10 Member=Component H1_C10 (H1) Die Stub H
+Added Member To Class: ClassName=C11 Member=Component H1_C11 (H1) Die Stub H
+Added Member To Class: ClassName=C12 Member=Component H1_C12 (H1) Die Stub H
+Added Member To Class: ClassName=C13 Member=Component H1_C13 (H1) Die Stub H
+Added Member To Class: ClassName=C14 Member=Component H1_C14 (H1) Die Stub H
+Added Member To Class: ClassName=C15 Member=Component H1_C15 (H1) Die Stub H
+Added Member To Class: ClassName=C16 Member=Component H1_C16 (H1) Die Stub H
+Added Member To Class: ClassName=C17 Member=Component H1_C17 (H1) Die Stub H
+Added Member To Class: ClassName=C18 Member=Component H1_C18 (H1) Die Stub H
+Added Member To Class: ClassName=C19 Member=Component H1_C19 (H1) Die Stub H
+Added Member To Class: ClassName=C20 Member=Component H1_C20 (H1) Die Stub H
+Added Member To Class: ClassName=Stub Tester Member=Component M1 Si2304BDS
+Added Member To Class: ClassName=Stub Tester Member=Component M2 Si2304BDS
+Added Member To Class: ClassName=Stub Tester Member=Component P1 XG4C30
+Added Member To Class: ClassName=C1 Member=Component PGA204_C1 (PGA204) PGA204
+Added Member To Class: ClassName=C2 Member=Component PGA204_C2 (PGA204) PGA204
+Added Member To Class: ClassName=C3 Member=Component PGA204_C3 (PGA204) PGA204
+Added Member To Class: ClassName=C4 Member=Component PGA204_C4 (PGA204) PGA204
+Added Member To Class: ClassName=C5 Member=Component PGA204_C5 (PGA204) PGA204
+Added Member To Class: ClassName=C6 Member=Component PGA204_C6 (PGA204) PGA204
+Added Member To Class: ClassName=C7 Member=Component PGA204_C7 (PGA204) PGA204
+Added Member To Class: ClassName=C8 Member=Component PGA204_C8 (PGA204) PGA204
+Added Member To Class: ClassName=C9 Member=Component PGA204_C9 (PGA204) PGA204
+Added Member To Class: ClassName=C10 Member=Component PGA204_C10 (PGA204) PGA204
+Added Member To Class: ClassName=C11 Member=Component PGA204_C11 (PGA204) PGA204
+Added Member To Class: ClassName=C12 Member=Component PGA204_C12 (PGA204) PGA204
+Added Member To Class: ClassName=C13 Member=Component PGA204_C13 (PGA204) PGA204
+Added Member To Class: ClassName=C14 Member=Component PGA204_C14 (PGA204) PGA204
+Added Member To Class: ClassName=C15 Member=Component PGA204_C15 (PGA204) PGA204
+Added Member To Class: ClassName=C16 Member=Component PGA204_C16 (PGA204) PGA204
+Added Member To Class: ClassName=C17 Member=Component PGA204_C17 (PGA204) PGA204
+Added Member To Class: ClassName=C18 Member=Component PGA204_C18 (PGA204) PGA204
+Added Member To Class: ClassName=C19 Member=Component PGA204_C19 (PGA204) PGA204
+Added Member To Class: ClassName=C20 Member=Component PGA204_C20 (PGA204) PGA204
+Added Member To Class: ClassName=C1 Member=Component R2_C1 (R2) 1k
+Added Member To Class: ClassName=C2 Member=Component R2_C2 (R2) 1k
+Added Member To Class: ClassName=C3 Member=Component R2_C3 (R2) 1k
+Added Member To Class: ClassName=C4 Member=Component R2_C4 (R2) 1k
+Added Member To Class: ClassName=C5 Member=Component R2_C5 (R2) 1k
+Added Member To Class: ClassName=C6 Member=Component R2_C6 (R2) 1k
+Added Member To Class: ClassName=C7 Member=Component R2_C7 (R2) 1k
+Added Member To Class: ClassName=C8 Member=Component R2_C8 (R2) 1k
+Added Member To Class: ClassName=C9 Member=Component R2_C9 (R2) 1k
+Added Member To Class: ClassName=C10 Member=Component R2_C10 (R2) 1k
+Added Member To Class: ClassName=C11 Member=Component R2_C11 (R2) 1k
+Added Member To Class: ClassName=C12 Member=Component R2_C12 (R2) 1k
+Added Member To Class: ClassName=C13 Member=Component R2_C13 (R2) 1k
+Added Member To Class: ClassName=C14 Member=Component R2_C14 (R2) 1k
+Added Member To Class: ClassName=C15 Member=Component R2_C15 (R2) 1k
+Added Member To Class: ClassName=C16 Member=Component R2_C16 (R2) 1k
+Added Member To Class: ClassName=C17 Member=Component R2_C17 (R2) 1k
+Added Member To Class: ClassName=C18 Member=Component R2_C18 (R2) 1k
+Added Member To Class: ClassName=C19 Member=Component R2_C19 (R2) 1k
+Added Member To Class: ClassName=C20 Member=Component R2_C20 (R2) 1k
+Added Member To Class: ClassName=Stub Tester Member=Component U1 REF3012
+Added Member To Class: ClassName=Stub Tester Member=Component U2 UCC384DP

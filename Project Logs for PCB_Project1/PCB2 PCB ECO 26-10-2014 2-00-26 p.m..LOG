@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=SCLK Pin=S11-1
+Removed Pin From Net: NetName=MISO Pin=S11-7
+Removed Pin From Net: NetName=MOSI Pin=S11-8
+Removed Pin From Net: NetName=SCLK Pin=S12-1
+Removed Pin From Net: NetName=MISO Pin=S12-7
+Removed Pin From Net: NetName=MOSI Pin=S12-8
+Removed Pin From Net: NetName=MISO Pin=S13-7
+Removed Pin From Net: NetName=MOSI Pin=S13-8
+Removed Pin From Net: NetName=SCLK Pin=S14-1
+Removed Pin From Net: NetName=MISO Pin=S14-7
+Removed Pin From Net: NetName=MOSI Pin=S14-8
+Removed Pin From Net: NetName=SCLK Pin=S15-1
+Removed Pin From Net: NetName=MISO Pin=S15-7
+Removed Pin From Net: NetName=MOSI Pin=S15-8
+Removed Pin From Net: NetName=SCLK Pin=S16-1
+Removed Pin From Net: NetName=MISO Pin=S16-7
+Removed Pin From Net: NetName=MOSI Pin=S16-8
+Removed Pin From Net: NetName=SCLK Pin=S17-1
+Removed Pin From Net: NetName=MISO Pin=S17-7
+Removed Pin From Net: NetName=MOSI Pin=S17-8
+Removed Pin From Net: NetName=SCLK Pin=S18-1
+Removed Pin From Net: NetName=MISO Pin=S18-7
+Removed Pin From Net: NetName=MOSI Pin=S18-8
+Removed Pin From Net: NetName=SCLK Pin=S19-1
+Removed Pin From Net: NetName=MISO Pin=S19-7
+Removed Pin From Net: NetName=MOSI Pin=S19-8
+Removed Pin From Net: NetName=SCLK Pin=S20-1
+Removed Pin From Net: NetName=MISO Pin=S20-7
+Removed Pin From Net: NetName=MOSI Pin=S20-8
+Change Component Designator: OldDesignator=H4 NewDesignator=H5
+Change Component Designator: OldDesignator=H5 NewDesignator=H4
+Added Component: Designator=H6(Header1x5)
+Added Pin To Net: NetName=GND Pin=H6-0
+Added Pin To Net: NetName=VCC+ Pin=H6-1
+Change Net Name : Old Net Name=MISO New Net Name=MISO1
+Change Net Name : Old Net Name=MOSI New Net Name=MOSI1
+Change Net Name : Old Net Name=SCLK New Net Name=SCLK1
+Added Pin To Net: NetName=MISO Pin=H6-3
+Added Pin To Net: NetName=MISO Pin=S11-7
+Added Pin To Net: NetName=MISO Pin=S12-7
+Added Pin To Net: NetName=MISO Pin=S13-7
+Added Pin To Net: NetName=MISO Pin=S14-7
+Added Pin To Net: NetName=MISO Pin=S15-7
+Added Pin To Net: NetName=MISO Pin=S16-7
+Added Pin To Net: NetName=MISO Pin=S17-7
+Added Pin To Net: NetName=MISO Pin=S18-7
+Added Pin To Net: NetName=MISO Pin=S19-7
+Added Pin To Net: NetName=MISO Pin=S20-7
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=H6-4
+Added Pin To Net: NetName=MOSI Pin=S11-8
+Added Pin To Net: NetName=MOSI Pin=S12-8
+Added Pin To Net: NetName=MOSI Pin=S13-8
+Added Pin To Net: NetName=MOSI Pin=S14-8
+Added Pin To Net: NetName=MOSI Pin=S15-8
+Added Pin To Net: NetName=MOSI Pin=S16-8
+Added Pin To Net: NetName=MOSI Pin=S17-8
+Added Pin To Net: NetName=MOSI Pin=S18-8
+Added Pin To Net: NetName=MOSI Pin=S19-8
+Added Pin To Net: NetName=MOSI Pin=S20-8
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SCLK Pin=H6-2
+Added Pin To Net: NetName=SCLK Pin=S11-1
+Added Pin To Net: NetName=SCLK Pin=S12-1
+Added Pin To Net: NetName=SCLK Pin=S14-1
+Added Pin To Net: NetName=SCLK Pin=S15-1
+Added Pin To Net: NetName=SCLK Pin=S16-1
+Added Pin To Net: NetName=SCLK Pin=S17-1
+Added Pin To Net: NetName=SCLK Pin=S18-1
+Added Pin To Net: NetName=SCLK Pin=S19-1
+Added Pin To Net: NetName=SCLK Pin=S20-1
+Added Net: Name=SCLK
+Added Member To Class: ClassName=Commercial Member=Component H6 Header1x5

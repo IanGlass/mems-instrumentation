@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LED CONT Pin=HL1-0
+Removed Pin From Net: NetName=GND Pin=HL1-2
+Added Pin To Net: NetName=GND Pin=HL1-0
+Added Pin To Net: NetName=LED CONT Pin=HL1-2
+Added Room: Name=LED

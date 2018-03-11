@@ -1,0 +1,7 @@
+Added Component: Designator=H1(Header1x4)
+Added Pin To Net: NetName=STUB4 Pin=H1-0
+Added Pin To Net: NetName=STUB3 Pin=H1-1
+Added Pin To Net: NetName=STUB1 Pin=H1-2
+Added Pin To Net: NetName=STUB2 Pin=H1-3
+Added Member To Class: ClassName=Standard Bridge Board Member=Component H1 Header1x4
+Added Room: Name=Standard Bridge Board

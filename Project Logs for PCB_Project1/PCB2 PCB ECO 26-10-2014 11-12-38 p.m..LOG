@@ -1,0 +1,20 @@
+Added Component: Designator=LIR1_LED1(TSML1020)
+Added Component: Designator=LIR1_LED5(TSML1020)
+Added Component: Designator=LR1_LED1(ASMT-QRBD-AEF0E)
+Added Component: Designator=LR1_LED5(ASMT-QRBD-AEF0E)
+Added Pin To Net: NetName=VCC+ Pin=LIR1_LED1-0
+Added Pin To Net: NetName=GND Pin=LIR1_LED1-1
+Added Pin To Net: NetName=VCC+ Pin=LIR1_LED5-0
+Added Pin To Net: NetName=GND Pin=LIR1_LED5-1
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED1-0
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED1-0
+Added Pin To Net: NetName=GND Pin=LR1_LED1-1
+Added Pin To Net: NetName=GND Pin=LR1_LED1-1
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED5-0
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED5-0
+Added Pin To Net: NetName=GND Pin=LR1_LED5-1
+Added Pin To Net: NetName=GND Pin=LR1_LED5-1
+Added Member To Class: ClassName=LED1 Member=Component LIR1_LED1 (LIR1) TSML1020
+Added Member To Class: ClassName=LED5 Member=Component LIR1_LED5 (LIR1) TSML1020
+Added Member To Class: ClassName=LED1 Member=Component LR1_LED1 (LR1) ASMT-QRBD-AEF0E
+Added Member To Class: ClassName=LED5 Member=Component LR1_LED5 (LR1) ASMT-QRBD-AEF0E

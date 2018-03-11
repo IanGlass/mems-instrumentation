@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=PRESSURE 2 Pin=P1-5
+Removed Pin From Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=A0 Pin=P1-5
+Added Pin To Net: NetName=A1 Pin=P1-6
+Added Pin To Net: NetName=PRESSURE 2 Pin=P1-10
+Added Pin To Net: NetName=GND Pin=P1-11
+Added Pin To Net: NetName=PRESSURE 6 Pin=P1-12
+Added Pin To Net: NetName=VEXCITE Pin=P1-13
+Added Pin To Net: NetName=PRESSURE 10 Pin=P1-14
+Added Pin To Net: NetName=CONT2 Pin=P1-15
+Added Pin To Net: NetName=PRESSURE 14 Pin=P1-16
+Added Pin To Net: NetName=CONT1 Pin=P1-17
+Added Pin To Net: NetName=GND Pin=P1-18

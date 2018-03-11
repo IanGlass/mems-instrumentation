@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=NetH1_C1_1 Pin=H1_C1-1
+Added Pin To Net: NetName=NetH1_C1_1 Pin=PGA204_C1-4
+Added Net: Name=NetH1_C1_1
+Added Pin To Net: NetName=NetH1_C1_2 Pin=H1_C1-2
+Added Pin To Net: NetName=NetH1_C1_2 Pin=PGA204_C1-5
+Added Net: Name=NetH1_C1_2
+Added Pin To Net: NetName=NetH1_C_1 Pin=H1_C-1
+Added Pin To Net: NetName=NetH1_C_1 Pin=PGA204_C-4
+Added Net: Name=NetH1_C_1
+Added Pin To Net: NetName=NetH1_C_2 Pin=H1_C-2
+Added Pin To Net: NetName=NetH1_C_2 Pin=PGA204_C-5
+Added Net: Name=NetH1_C_2
+Added Room: Name=Stub Tester 2

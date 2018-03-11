@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetPGA204_7 Pin=R3-1
+Removed Pin From Net: NetName=NetPGA204_6 Pin=R3-2
+Added Component: Designator=PGA204(PGA204)
+Added Pin To Net: NetName=-VE BRIDGE Pin=PGA204-4
+Added Pin To Net: NetName=+VE BRIDGE Pin=PGA204-5
+Added Pin To Net: NetName=NetPGA204_6 Pin=PGA204-6
+Added Pin To Net: NetName=NetPGA204_7 Pin=PGA204-7
+Added Pin To Net: NetName=VCC- Pin=PGA204-8
+Added Pin To Net: NetName=NetPGA204_10 Pin=PGA204-10
+Added Pin To Net: NetName=NetPGA204_11 Pin=PGA204-11
+Added Pin To Net: NetName=NetPGA204_11 Pin=PGA204-12
+Added Pin To Net: NetName=VCC+ Pin=PGA204-13
+Added Pin To Net: NetName=GND Pin=PGA204-14
+Added Pin To Net: NetName=NetD1_1 Pin=PGA204-15
+Added Pin To Net: NetName=NetD2_1 Pin=PGA204-16
+Added Pin To Net: NetName=NetPGA204_7 Pin=R3-1
+Added Pin To Net: NetName=VCC- Pin=R3-1
+Added Pin To Net: NetName=NetPGA204_6 Pin=R3-2
+Added Pin To Net: NetName=NetPGA204_10 Pin=R3-2
+Added Pin To Net: NetName=VCC+ Pin=R3-3
+Added Member To Class: ClassName=Stub Tester 2 Member=Component PGA204

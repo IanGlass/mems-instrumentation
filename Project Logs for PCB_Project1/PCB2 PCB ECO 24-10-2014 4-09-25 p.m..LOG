@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PRESSURE 12 Pin=P1-23
+Removed Pin From Net: NetName=PRESSURE 16 Pin=P1-24
+Removed Pin From Net: NetName=PRESSURE 4 Pin=P1-25
+Removed Pin From Net: NetName=PRESSURE 8 Pin=P1-26
+Added Pin To Net: NetName=PRESSURE 8 Pin=P1-23
+Added Pin To Net: NetName=PRESSURE 4 Pin=P1-24
+Added Pin To Net: NetName=PRESSURE 16 Pin=P1-25
+Added Pin To Net: NetName=PRESSURE 12 Pin=P1-26
+Added Room: Name=Standard Bridge Board

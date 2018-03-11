@@ -1,0 +1,150 @@
+Added Component: Designator=LIR1_LED2(TSML1020)
+Added Component: Designator=LIR1_LED3(TSML1020)
+Added Component: Designator=LIR1_LED4(TSML1020)
+Added Component: Designator=LIR1_LED5(TSML1020)
+Added Component: Designator=LIR1_LED6(TSML1020)
+Added Component: Designator=LIR1_LED7(TSML1020)
+Added Component: Designator=LIR1_LED8(TSML1020)
+Added Component: Designator=LIR1_LED9(TSML1020)
+Added Component: Designator=LIR1_LED10(TSML1020)
+Added Component: Designator=LIR1_LED11(TSML1020)
+Added Component: Designator=LIR1_LED12(TSML1020)
+Added Component: Designator=LIR1_LED13(TSML1020)
+Added Component: Designator=LIR1_LED14(TSML1020)
+Added Component: Designator=LIR1_LED15(TSML1020)
+Added Component: Designator=LIR1_LED16(TSML1020)
+Added Component: Designator=LR1_LED2(ASMT-QRBD-AEF0E)
+Added Component: Designator=LR1_LED3(ASMT-QRBD-AEF0E)
+Added Component: Designator=LR1_LED4(ASMT-QRBD-AEF0E)
+Added Component: Designator=LR1_LED5(ASMT-QRBD-AEF0E)
+Added Component: Designator=LR1_LED6(ASMT-QRBD-AEF0E)
+Added Component: Designator=LR1_LED7(ASMT-QRBD-AEF0E)
+Added Component: Designator=LR1_LED8(ASMT-QRBD-AEF0E)
+Added Component: Designator=LR1_LED9(ASMT-QRBD-AEF0E)
+Added Component: Designator=LR1_LED10(ASMT-QRBD-AEF0E)
+Added Component: Designator=LR1_LED11(ASMT-QRBD-AEF0E)
+Added Component: Designator=LR1_LED12(ASMT-QRBD-AEF0E)
+Added Component: Designator=LR1_LED13(ASMT-QRBD-AEF0E)
+Added Component: Designator=LR1_LED14(ASMT-QRBD-AEF0E)
+Added Component: Designator=LR1_LED15(ASMT-QRBD-AEF0E)
+Added Component: Designator=LR1_LED16(ASMT-QRBD-AEF0E)
+Added Pin To Net: NetName=VCC+ Pin=LIR1_LED2-0
+Added Pin To Net: NetName=GND Pin=LIR1_LED2-1
+Added Pin To Net: NetName=VCC+ Pin=LIR1_LED3-0
+Added Pin To Net: NetName=GND Pin=LIR1_LED3-1
+Added Pin To Net: NetName=VCC+ Pin=LIR1_LED4-0
+Added Pin To Net: NetName=GND Pin=LIR1_LED4-1
+Added Pin To Net: NetName=VCC+ Pin=LIR1_LED5-0
+Added Pin To Net: NetName=GND Pin=LIR1_LED5-1
+Added Pin To Net: NetName=VCC+ Pin=LIR1_LED6-0
+Added Pin To Net: NetName=GND Pin=LIR1_LED6-1
+Added Pin To Net: NetName=VCC+ Pin=LIR1_LED7-0
+Added Pin To Net: NetName=GND Pin=LIR1_LED7-1
+Added Pin To Net: NetName=VCC+ Pin=LIR1_LED8-0
+Added Pin To Net: NetName=GND Pin=LIR1_LED8-1
+Added Pin To Net: NetName=VCC+ Pin=LIR1_LED9-0
+Added Pin To Net: NetName=GND Pin=LIR1_LED9-1
+Added Pin To Net: NetName=VCC+ Pin=LIR1_LED10-0
+Added Pin To Net: NetName=GND Pin=LIR1_LED10-1
+Added Pin To Net: NetName=VCC+ Pin=LIR1_LED11-0
+Added Pin To Net: NetName=GND Pin=LIR1_LED11-1
+Added Pin To Net: NetName=VCC+ Pin=LIR1_LED12-0
+Added Pin To Net: NetName=GND Pin=LIR1_LED12-1
+Added Pin To Net: NetName=VCC+ Pin=LIR1_LED13-0
+Added Pin To Net: NetName=GND Pin=LIR1_LED13-1
+Added Pin To Net: NetName=VCC+ Pin=LIR1_LED14-0
+Added Pin To Net: NetName=GND Pin=LIR1_LED14-1
+Added Pin To Net: NetName=VCC+ Pin=LIR1_LED15-0
+Added Pin To Net: NetName=GND Pin=LIR1_LED15-1
+Added Pin To Net: NetName=VCC+ Pin=LIR1_LED16-0
+Added Pin To Net: NetName=GND Pin=LIR1_LED16-1
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED2-0
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED2-0
+Added Pin To Net: NetName=GND Pin=LR1_LED2-1
+Added Pin To Net: NetName=GND Pin=LR1_LED2-1
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED3-0
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED3-0
+Added Pin To Net: NetName=GND Pin=LR1_LED3-1
+Added Pin To Net: NetName=GND Pin=LR1_LED3-1
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED4-0
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED4-0
+Added Pin To Net: NetName=GND Pin=LR1_LED4-1
+Added Pin To Net: NetName=GND Pin=LR1_LED4-1
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED5-0
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED5-0
+Added Pin To Net: NetName=GND Pin=LR1_LED5-1
+Added Pin To Net: NetName=GND Pin=LR1_LED5-1
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED6-0
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED6-0
+Added Pin To Net: NetName=GND Pin=LR1_LED6-1
+Added Pin To Net: NetName=GND Pin=LR1_LED6-1
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED7-0
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED7-0
+Added Pin To Net: NetName=GND Pin=LR1_LED7-1
+Added Pin To Net: NetName=GND Pin=LR1_LED7-1
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED8-0
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED8-0
+Added Pin To Net: NetName=GND Pin=LR1_LED8-1
+Added Pin To Net: NetName=GND Pin=LR1_LED8-1
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED9-0
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED9-0
+Added Pin To Net: NetName=GND Pin=LR1_LED9-1
+Added Pin To Net: NetName=GND Pin=LR1_LED9-1
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED10-0
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED10-0
+Added Pin To Net: NetName=GND Pin=LR1_LED10-1
+Added Pin To Net: NetName=GND Pin=LR1_LED10-1
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED11-0
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED11-0
+Added Pin To Net: NetName=GND Pin=LR1_LED11-1
+Added Pin To Net: NetName=GND Pin=LR1_LED11-1
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED12-0
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED12-0
+Added Pin To Net: NetName=GND Pin=LR1_LED12-1
+Added Pin To Net: NetName=GND Pin=LR1_LED12-1
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED13-0
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED13-0
+Added Pin To Net: NetName=GND Pin=LR1_LED13-1
+Added Pin To Net: NetName=GND Pin=LR1_LED13-1
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED14-0
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED14-0
+Added Pin To Net: NetName=GND Pin=LR1_LED14-1
+Added Pin To Net: NetName=GND Pin=LR1_LED14-1
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED15-0
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED15-0
+Added Pin To Net: NetName=GND Pin=LR1_LED15-1
+Added Pin To Net: NetName=GND Pin=LR1_LED15-1
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED16-0
+Added Pin To Net: NetName=VCC+ Pin=LR1_LED16-0
+Added Pin To Net: NetName=GND Pin=LR1_LED16-1
+Added Pin To Net: NetName=GND Pin=LR1_LED16-1
+Added Member To Class: ClassName=LED2 Member=Component LIR1_LED2 (LIR1) TSML1020
+Added Member To Class: ClassName=LED3 Member=Component LIR1_LED3 (LIR1) TSML1020
+Added Member To Class: ClassName=LED4 Member=Component LIR1_LED4 (LIR1) TSML1020
+Added Member To Class: ClassName=LED5 Member=Component LIR1_LED5 (LIR1) TSML1020
+Added Member To Class: ClassName=LED6 Member=Component LIR1_LED6 (LIR1) TSML1020
+Added Member To Class: ClassName=LED7 Member=Component LIR1_LED7 (LIR1) TSML1020
+Added Member To Class: ClassName=LED8 Member=Component LIR1_LED8 (LIR1) TSML1020
+Added Member To Class: ClassName=LED9 Member=Component LIR1_LED9 (LIR1) TSML1020
+Added Member To Class: ClassName=LED10 Member=Component LIR1_LED10 (LIR1) TSML1020
+Added Member To Class: ClassName=LED11 Member=Component LIR1_LED11 (LIR1) TSML1020
+Added Member To Class: ClassName=LED12 Member=Component LIR1_LED12 (LIR1) TSML1020
+Added Member To Class: ClassName=LED13 Member=Component LIR1_LED13 (LIR1) TSML1020
+Added Member To Class: ClassName=LED14 Member=Component LIR1_LED14 (LIR1) TSML1020
+Added Member To Class: ClassName=LED15 Member=Component LIR1_LED15 (LIR1) TSML1020
+Added Member To Class: ClassName=LED16 Member=Component LIR1_LED16 (LIR1) TSML1020
+Added Member To Class: ClassName=LED2 Member=Component LR1_LED2 (LR1) ASMT-QRBD-AEF0E
+Added Member To Class: ClassName=LED3 Member=Component LR1_LED3 (LR1) ASMT-QRBD-AEF0E
+Added Member To Class: ClassName=LED4 Member=Component LR1_LED4 (LR1) ASMT-QRBD-AEF0E
+Added Member To Class: ClassName=LED5 Member=Component LR1_LED5 (LR1) ASMT-QRBD-AEF0E
+Added Member To Class: ClassName=LED6 Member=Component LR1_LED6 (LR1) ASMT-QRBD-AEF0E
+Added Member To Class: ClassName=LED7 Member=Component LR1_LED7 (LR1) ASMT-QRBD-AEF0E
+Added Member To Class: ClassName=LED8 Member=Component LR1_LED8 (LR1) ASMT-QRBD-AEF0E
+Added Member To Class: ClassName=LED9 Member=Component LR1_LED9 (LR1) ASMT-QRBD-AEF0E
+Added Member To Class: ClassName=LED10 Member=Component LR1_LED10 (LR1) ASMT-QRBD-AEF0E
+Added Member To Class: ClassName=LED11 Member=Component LR1_LED11 (LR1) ASMT-QRBD-AEF0E
+Added Member To Class: ClassName=LED12 Member=Component LR1_LED12 (LR1) ASMT-QRBD-AEF0E
+Added Member To Class: ClassName=LED13 Member=Component LR1_LED13 (LR1) ASMT-QRBD-AEF0E
+Added Member To Class: ClassName=LED14 Member=Component LR1_LED14 (LR1) ASMT-QRBD-AEF0E
+Added Member To Class: ClassName=LED15 Member=Component LR1_LED15 (LR1) ASMT-QRBD-AEF0E
+Added Member To Class: ClassName=LED16 Member=Component LR1_LED16 (LR1) ASMT-QRBD-AEF0E

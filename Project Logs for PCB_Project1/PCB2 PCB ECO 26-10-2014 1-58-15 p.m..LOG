@@ -1,0 +1,31 @@
+Added Component: Designator=H3(Header1x10)
+Added Component: Designator=H4(Header1x10)
+Added Component: Designator=H5(Header1x5)
+Added Pin To Net: NetName=CS1 Pin=H3-0
+Added Pin To Net: NetName=CS2 Pin=H3-1
+Added Pin To Net: NetName=CS3 Pin=H3-2
+Added Pin To Net: NetName=CS4 Pin=H3-3
+Added Pin To Net: NetName=CS5 Pin=H3-4
+Added Pin To Net: NetName=CS6 Pin=H3-5
+Added Pin To Net: NetName=CS7 Pin=H3-6
+Added Pin To Net: NetName=CS8 Pin=H3-7
+Added Pin To Net: NetName=CS9 Pin=H3-8
+Added Pin To Net: NetName=CS10 Pin=H3-9
+Added Pin To Net: NetName=CS11 Pin=H4-0
+Added Pin To Net: NetName=CS12 Pin=H4-1
+Added Pin To Net: NetName=CS13 Pin=H4-2
+Added Pin To Net: NetName=CS14 Pin=H4-3
+Added Pin To Net: NetName=CS15 Pin=H4-4
+Added Pin To Net: NetName=CS16 Pin=H4-5
+Added Pin To Net: NetName=CS17 Pin=H4-6
+Added Pin To Net: NetName=CS18 Pin=H4-7
+Added Pin To Net: NetName=CS19 Pin=H4-8
+Added Pin To Net: NetName=CS20 Pin=H4-9
+Added Pin To Net: NetName=GND Pin=H5-0
+Added Pin To Net: NetName=VCC+ Pin=H5-1
+Added Pin To Net: NetName=SCLK Pin=H5-2
+Added Pin To Net: NetName=MISO Pin=H5-3
+Added Pin To Net: NetName=MOSI Pin=H5-4
+Added Member To Class: ClassName=Commercial Member=Component H3 Header1x10
+Added Member To Class: ClassName=Commercial Member=Component H4 Header1x10
+Added Member To Class: ClassName=Commercial Member=Component H5 Header1x5

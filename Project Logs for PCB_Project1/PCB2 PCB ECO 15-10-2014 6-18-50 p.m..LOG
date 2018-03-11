@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetPGA204_7 Pin=R3-1
+Removed Pin From Net: NetName=NetPGA204_6 Pin=R3-2
+Added Pin To Net: NetName=NetPGA204_7 Pin=R3-1
+Added Pin To Net: NetName=VCC- Pin=R3-1
+Added Pin To Net: NetName=NetPGA204_6 Pin=R3-2
+Added Pin To Net: NetName=NetPGA204_10 Pin=R3-2
+Added Pin To Net: NetName=VCC+ Pin=R3-3

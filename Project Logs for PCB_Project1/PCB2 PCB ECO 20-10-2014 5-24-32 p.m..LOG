@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=C10_Channel2 NewDesignator=C10_C1
+Change Component Designator: OldDesignator=C10_Channel NewDesignator=C10_C
+Change Component Designator: OldDesignator=C11_Channel2 NewDesignator=C11_C1
+Change Component Designator: OldDesignator=C11_Channel NewDesignator=C11_C
+Change Component Designator: OldDesignator=C12_Channel2 NewDesignator=C12_C1
+Change Component Designator: OldDesignator=C12_Channel NewDesignator=C12_C
+Change Component Designator: OldDesignator=H1_Channel2 NewDesignator=H1_C1
+Change Component Designator: OldDesignator=H1_Channel NewDesignator=H1_C
+Change Component Designator: OldDesignator=PGA204_Channel2 NewDesignator=PGA204_C1
+Change Component Designator: OldDesignator=PGA204_Channel NewDesignator=PGA204_C
+Change Component Designator: OldDesignator=R2_Channel2 NewDesignator=R2_C1
+Change Component Designator: OldDesignator=R2_Channel NewDesignator=R2_C
+Change Net Name : Old Net Name=NetPGA204_Channel2_11 New Net Name=NetPGA204_C1_11
+Change Net Name : Old Net Name=NetPGA204_Channel_11 New Net Name=NetPGA204_C_11
+Change Class Name : Old Net Name=Channel2 New Net Name=C1
+Change Class Name : Old Net Name=Channel New Net Name=C
+Change Room Name: Old Name=Channel2 New Name=Stub Tester 2
+Change Room Scope: Old Scope=InComponentClass('Channel2') New Scope=InComponentClass('Stub Tester 2')
+Added Room: Name=C1
+Added Room: Name=C

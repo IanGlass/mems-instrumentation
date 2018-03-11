@@ -1,0 +1,90 @@
+Added Component: Designator=H3(Header2x8)
+Added Component: Designator=S1(MS5611)
+Added Component: Designator=S2(MS5611)
+Added Component: Designator=S3(MS5611)
+Added Component: Designator=S4(MS5611)
+Added Component: Designator=S5(MS5611)
+Added Component: Designator=S6(MS5611)
+Added Component: Designator=S7(MS5611)
+Added Component: Designator=S8(MS5611)
+Added Component: Designator=S9(MS5611)
+Added Component: Designator=S10(MS5611)
+Added Pin To Net: NetName=CS1 Pin=H3-0
+Added Pin To Net: NetName=CS1 Pin=S1-4
+Added Pin To Net: NetName=CS1 Pin=S1-5
+Added Net: Name=CS1
+Added Pin To Net: NetName=CS2 Pin=H3-1
+Added Pin To Net: NetName=CS2 Pin=S2-4
+Added Pin To Net: NetName=CS2 Pin=S2-5
+Added Net: Name=CS2
+Added Pin To Net: NetName=CS3 Pin=H3-2
+Added Pin To Net: NetName=CS3 Pin=S3-4
+Added Pin To Net: NetName=CS3 Pin=S3-5
+Added Net: Name=CS3
+Added Pin To Net: NetName=CS4 Pin=H3-3
+Added Pin To Net: NetName=CS4 Pin=S4-4
+Added Pin To Net: NetName=CS4 Pin=S4-5
+Added Net: Name=CS4
+Added Pin To Net: NetName=CS5 Pin=H3-4
+Added Pin To Net: NetName=CS5 Pin=S5-4
+Added Pin To Net: NetName=CS5 Pin=S5-5
+Added Net: Name=CS5
+Added Pin To Net: NetName=CS6 Pin=H3-5
+Added Pin To Net: NetName=CS6 Pin=S6-4
+Added Pin To Net: NetName=CS6 Pin=S6-5
+Added Net: Name=CS6
+Added Pin To Net: NetName=CS7 Pin=H3-6
+Added Pin To Net: NetName=CS7 Pin=S7-4
+Added Pin To Net: NetName=CS7 Pin=S7-5
+Added Net: Name=CS7
+Added Pin To Net: NetName=CS8 Pin=H3-7
+Added Pin To Net: NetName=CS8 Pin=S8-4
+Added Pin To Net: NetName=CS8 Pin=S8-5
+Added Net: Name=CS8
+Added Pin To Net: NetName=CS9 Pin=H3-8
+Added Pin To Net: NetName=CS9 Pin=S9-4
+Added Pin To Net: NetName=CS9 Pin=S9-5
+Added Net: Name=CS9
+Added Pin To Net: NetName=CS10 Pin=H3-9
+Added Pin To Net: NetName=CS10 Pin=S10-4
+Added Pin To Net: NetName=CS10 Pin=S10-5
+Added Net: Name=CS10
+Added Pin To Net: NetName=MISO Pin=H3-11
+Added Pin To Net: NetName=MISO Pin=S1-7
+Added Pin To Net: NetName=MISO Pin=S2-7
+Added Pin To Net: NetName=MISO Pin=S3-7
+Added Pin To Net: NetName=MISO Pin=S4-7
+Added Pin To Net: NetName=MISO Pin=S5-7
+Added Pin To Net: NetName=MISO Pin=S6-7
+Added Pin To Net: NetName=MISO Pin=S7-7
+Added Pin To Net: NetName=MISO Pin=S8-7
+Added Pin To Net: NetName=MISO Pin=S9-7
+Added Pin To Net: NetName=MISO Pin=S10-7
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=H3-12
+Added Pin To Net: NetName=MOSI Pin=S1-6
+Added Pin To Net: NetName=MOSI Pin=S2-6
+Added Pin To Net: NetName=MOSI Pin=S3-6
+Added Pin To Net: NetName=MOSI Pin=S4-6
+Added Pin To Net: NetName=MOSI Pin=S5-6
+Added Pin To Net: NetName=MOSI Pin=S6-6
+Added Pin To Net: NetName=MOSI Pin=S7-6
+Added Pin To Net: NetName=MOSI Pin=S8-6
+Added Pin To Net: NetName=MOSI Pin=S9-6
+Added Pin To Net: NetName=MOSI Pin=S10-6
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SCLK Pin=H3-10
+Added Pin To Net: NetName=SCLK Pin=S1-8
+Added Pin To Net: NetName=SCLK Pin=S2-8
+Added Pin To Net: NetName=SCLK Pin=S3-8
+Added Pin To Net: NetName=SCLK Pin=S4-8
+Added Pin To Net: NetName=SCLK Pin=S5-8
+Added Pin To Net: NetName=SCLK Pin=S6-8
+Added Pin To Net: NetName=SCLK Pin=S7-8
+Added Pin To Net: NetName=SCLK Pin=S8-8
+Added Pin To Net: NetName=SCLK Pin=S9-8
+Added Pin To Net: NetName=SCLK Pin=S10-8
+Added Net: Name=SCLK
+Added Class: Name=MS5611
+Added Room: Name=MS5611
+Added Room: Name=Standard Bridge Board

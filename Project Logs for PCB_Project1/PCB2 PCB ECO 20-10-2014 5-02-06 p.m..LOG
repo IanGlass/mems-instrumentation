@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=A1 Pin=H2-2
+Removed Pin From Net: NetName=A0 Pin=H2-3
+Removed Pin From Net: NetName=+VE BRIDGE Pin=PGA204-5
+Change Class Name : Old Net Name=Components Class 1 New Net Name=Channel
+Added Room: Name=Channel

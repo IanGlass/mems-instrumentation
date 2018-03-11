@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC- Pin=*-29
+Removed Pin From Net: NetName=CONT Pin=*-30
+Added Pin To Net: NetName=VCC- Pin=*-25
+Added Pin To Net: NetName=CONT Pin=*-29
+Added Pin To Net: NetName=GND Pin=*-30

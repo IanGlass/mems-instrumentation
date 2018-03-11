@@ -1,0 +1,101 @@
+Added Pin To Net: NetName=PRESSURE 2 Pin=C11_C2-1
+Added Pin To Net: NetName=PRESSURE 3 Pin=C11_C3-1
+Added Pin To Net: NetName=PRESSURE 4 Pin=C11_C4-1
+Added Pin To Net: NetName=PRESSURE 5 Pin=C11_C5-1
+Added Pin To Net: NetName=PRESSURE 6 Pin=C11_C6-1
+Added Pin To Net: NetName=PRESSURE 7 Pin=C11_C7-1
+Added Pin To Net: NetName=PRESSURE 8 Pin=C11_C8-1
+Added Pin To Net: NetName=PRESSURE 9 Pin=C11_C9-1
+Added Pin To Net: NetName=PRESSURE 10 Pin=C11_C10-1
+Added Pin To Net: NetName=PRESSURE 11 Pin=C11_C11-1
+Added Pin To Net: NetName=PRESSURE 12 Pin=C11_C12-1
+Added Pin To Net: NetName=PRESSURE 13 Pin=C11_C13-1
+Added Pin To Net: NetName=PRESSURE 14 Pin=C11_C14-1
+Added Pin To Net: NetName=PRESSURE 15 Pin=C11_C15-1
+Added Pin To Net: NetName=PRESSURE 16 Pin=C11_C16-1
+Added Pin To Net: NetName=PRESSURE 17 Pin=C11_C17-1
+Added Pin To Net: NetName=PRESSURE 18 Pin=C11_C18-1
+Added Pin To Net: NetName=PRESSURE 19 Pin=C11_C19-1
+Added Pin To Net: NetName=PRESSURE 20 Pin=C11_C20-1
+Added Pin To Net: NetName=PRESSURE 21 Pin=C11_C21-1
+Added Pin To Net: NetName=PRESSURE 22 Pin=C11_C22-1
+Added Pin To Net: NetName=PRESSURE 23 Pin=C11_C23-1
+Added Pin To Net: NetName=PRESSURE 24 Pin=C11_C24-1
+Added Pin To Net: NetName=PRESSURE 25 Pin=C11_C25-1
+Added Pin To Net: NetName=A0 Pin=P1-26
+Added Pin To Net: NetName=A1 Pin=P1-27
+Added Pin To Net: NetName=CONT Pin=P1-28
+Added Pin To Net: NetName=VCC- Pin=P1-29
+Added Pin To Net: NetName=VCC+ Pin=P1-30
+Added Pin To Net: NetName=A0 Pin=PGA204_C2-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C2-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C3-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C3-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C4-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C4-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C5-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C5-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C6-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C6-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C7-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C7-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C8-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C8-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C9-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C9-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C10-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C10-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C11-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C11-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C12-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C12-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C13-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C13-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C14-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C14-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C15-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C15-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C16-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C16-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C17-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C17-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C18-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C18-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C19-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C19-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C20-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C20-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C21-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C21-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C22-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C22-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C23-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C23-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C24-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C24-16
+Added Pin To Net: NetName=A0 Pin=PGA204_C25-15
+Added Pin To Net: NetName=A1 Pin=PGA204_C25-16
+Added Pin To Net: NetName=PRESSURE 2 Pin=R2_C2-0
+Added Pin To Net: NetName=PRESSURE 3 Pin=R2_C3-0
+Added Pin To Net: NetName=PRESSURE 4 Pin=R2_C4-0
+Added Pin To Net: NetName=PRESSURE 5 Pin=R2_C5-0
+Added Pin To Net: NetName=PRESSURE 6 Pin=R2_C6-0
+Added Pin To Net: NetName=PRESSURE 7 Pin=R2_C7-0
+Added Pin To Net: NetName=PRESSURE 8 Pin=R2_C8-0
+Added Pin To Net: NetName=PRESSURE 9 Pin=R2_C9-0
+Added Pin To Net: NetName=PRESSURE 10 Pin=R2_C10-0
+Added Pin To Net: NetName=PRESSURE 11 Pin=R2_C11-0
+Added Pin To Net: NetName=PRESSURE 12 Pin=R2_C12-0
+Added Pin To Net: NetName=PRESSURE 13 Pin=R2_C13-0
+Added Pin To Net: NetName=PRESSURE 14 Pin=R2_C14-0
+Added Pin To Net: NetName=PRESSURE 15 Pin=R2_C15-0
+Added Pin To Net: NetName=PRESSURE 16 Pin=R2_C16-0
+Added Pin To Net: NetName=PRESSURE 17 Pin=R2_C17-0
+Added Pin To Net: NetName=PRESSURE 18 Pin=R2_C18-0
+Added Pin To Net: NetName=PRESSURE 19 Pin=R2_C19-0
+Added Pin To Net: NetName=PRESSURE 20 Pin=R2_C20-0
+Added Pin To Net: NetName=PRESSURE 21 Pin=R2_C21-0
+Added Pin To Net: NetName=PRESSURE 22 Pin=R2_C22-0
+Added Pin To Net: NetName=PRESSURE 23 Pin=R2_C23-0
+Added Pin To Net: NetName=PRESSURE 24 Pin=R2_C24-0
+Added Pin To Net: NetName=PRESSURE 25 Pin=R2_C25-0

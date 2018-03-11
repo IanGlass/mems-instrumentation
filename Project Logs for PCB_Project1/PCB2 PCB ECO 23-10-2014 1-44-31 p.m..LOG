@@ -1,0 +1,629 @@
+Removed Pin From Net: NetName=1.25V Pin=C1_Stub Tester 2-0
+Removed Pin From Net: NetName=VCC+ Pin=C1_Stub Tester 2-1
+Removed Pin From Net: NetName=1.25V Pin=C2_Stub Tester 2-0
+Removed Pin From Net: NetName=VCC+ Pin=C2_Stub Tester 2-1
+Removed Pin From Net: NetName=GND Pin=C3_Stub Tester 2-0
+Removed Pin From Net: NetName=1.25V Pin=C3_Stub Tester 2-1
+Removed Pin From Net: NetName=GND Pin=C4_Stub Tester 2-0
+Removed Pin From Net: NetName=1.25V Pin=C4_Stub Tester 2-1
+Removed Pin From Net: NetName=GND Pin=C5_Stub Tester 2-0
+Removed Pin From Net: NetName=VCC+ Pin=C5_Stub Tester 2-1
+Removed Pin From Net: NetName=GND Pin=C6_Stub Tester 2-0
+Removed Pin From Net: NetName=VCC+ Pin=C6_Stub Tester 2-1
+Removed Pin From Net: NetName=GND Pin=C7_Stub Tester 2-0
+Removed Pin From Net: NetName=VCC- Pin=C7_Stub Tester 2-1
+Removed Pin From Net: NetName=GND Pin=C8_Stub Tester 2-0
+Removed Pin From Net: NetName=GND Pin=C9_Stub Tester 2-0
+Removed Pin From Net: NetName=-1.25V Pin=C9_Stub Tester 2-1
+Removed Pin From Net: NetName=GND Pin=C10_C12-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C12-1
+Removed Pin From Net: NetName=GND Pin=C10_C22-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C22-1
+Removed Pin From Net: NetName=GND Pin=C10_C32-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C32-1
+Removed Pin From Net: NetName=GND Pin=C10_C42-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C42-1
+Removed Pin From Net: NetName=GND Pin=C10_C52-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C52-1
+Removed Pin From Net: NetName=GND Pin=C10_C62-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C62-1
+Removed Pin From Net: NetName=GND Pin=C10_C72-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C72-1
+Removed Pin From Net: NetName=GND Pin=C10_C82-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C82-1
+Removed Pin From Net: NetName=GND Pin=C10_C92-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C92-1
+Removed Pin From Net: NetName=GND Pin=C10_C102-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C102-1
+Removed Pin From Net: NetName=GND Pin=C10_C112-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C112-1
+Removed Pin From Net: NetName=GND Pin=C10_C122-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C122-1
+Removed Pin From Net: NetName=GND Pin=C10_C132-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C132-1
+Removed Pin From Net: NetName=GND Pin=C10_C142-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C142-1
+Removed Pin From Net: NetName=GND Pin=C10_C152-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C152-1
+Removed Pin From Net: NetName=GND Pin=C10_C162-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C162-1
+Removed Pin From Net: NetName=GND Pin=C10_C172-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C172-1
+Removed Pin From Net: NetName=GND Pin=C10_C182-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C182-1
+Removed Pin From Net: NetName=GND Pin=C10_C192-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C192-1
+Removed Pin From Net: NetName=GND Pin=C10_C202-0
+Removed Pin From Net: NetName=VCC+ Pin=C10_C202-1
+Removed Pin From Net: NetName=GND Pin=C11_C12-0
+Removed Pin From Net: NetName=GND Pin=C11_C22-0
+Removed Pin From Net: NetName=GND Pin=C11_C32-0
+Removed Pin From Net: NetName=GND Pin=C11_C42-0
+Removed Pin From Net: NetName=GND Pin=C11_C52-0
+Removed Pin From Net: NetName=GND Pin=C11_C62-0
+Removed Pin From Net: NetName=GND Pin=C11_C72-0
+Removed Pin From Net: NetName=GND Pin=C11_C82-0
+Removed Pin From Net: NetName=GND Pin=C11_C92-0
+Removed Pin From Net: NetName=GND Pin=C11_C102-0
+Removed Pin From Net: NetName=GND Pin=C11_C112-0
+Removed Pin From Net: NetName=GND Pin=C11_C122-0
+Removed Pin From Net: NetName=GND Pin=C11_C132-0
+Removed Pin From Net: NetName=GND Pin=C11_C142-0
+Removed Pin From Net: NetName=GND Pin=C11_C152-0
+Removed Pin From Net: NetName=GND Pin=C11_C162-0
+Removed Pin From Net: NetName=GND Pin=C11_C172-0
+Removed Pin From Net: NetName=GND Pin=C11_C182-0
+Removed Pin From Net: NetName=GND Pin=C11_C192-0
+Removed Pin From Net: NetName=GND Pin=C11_C202-0
+Removed Pin From Net: NetName=GND Pin=C12_C22-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C22-1
+Removed Pin From Net: NetName=GND Pin=C12_C32-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C32-1
+Removed Pin From Net: NetName=GND Pin=C12_C42-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C42-1
+Removed Pin From Net: NetName=GND Pin=C12_C52-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C52-1
+Removed Pin From Net: NetName=GND Pin=C12_C62-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C62-1
+Removed Pin From Net: NetName=GND Pin=C12_C72-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C72-1
+Removed Pin From Net: NetName=GND Pin=C12_C82-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C82-1
+Removed Pin From Net: NetName=GND Pin=C12_C92-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C92-1
+Removed Pin From Net: NetName=GND Pin=C12_C102-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C102-1
+Removed Pin From Net: NetName=GND Pin=C12_C112-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C112-1
+Removed Pin From Net: NetName=GND Pin=C12_C122-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C122-1
+Removed Pin From Net: NetName=GND Pin=C12_C132-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C132-1
+Removed Pin From Net: NetName=GND Pin=C12_C142-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C142-1
+Removed Pin From Net: NetName=GND Pin=C12_C152-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C152-1
+Removed Pin From Net: NetName=GND Pin=C12_C162-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C162-1
+Removed Pin From Net: NetName=GND Pin=C12_C172-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C172-1
+Removed Pin From Net: NetName=GND Pin=C12_C182-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C182-1
+Removed Pin From Net: NetName=GND Pin=C12_C192-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C192-1
+Removed Pin From Net: NetName=GND Pin=C12_C202-0
+Removed Pin From Net: NetName=VCC- Pin=C12_C202-1
+Removed Pin From Net: NetName=GND Pin=H1_C12-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C12-3
+Removed Pin From Net: NetName=GND Pin=H1_C22-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C22-3
+Removed Pin From Net: NetName=GND Pin=H1_C32-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C32-3
+Removed Pin From Net: NetName=GND Pin=H1_C42-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C42-3
+Removed Pin From Net: NetName=GND Pin=H1_C52-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C52-3
+Removed Pin From Net: NetName=GND Pin=H1_C62-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C62-3
+Removed Pin From Net: NetName=GND Pin=H1_C72-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C72-3
+Removed Pin From Net: NetName=GND Pin=H1_C82-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C82-3
+Removed Pin From Net: NetName=GND Pin=H1_C92-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C92-3
+Removed Pin From Net: NetName=GND Pin=H1_C102-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C102-3
+Removed Pin From Net: NetName=GND Pin=H1_C112-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C112-3
+Removed Pin From Net: NetName=GND Pin=H1_C122-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C122-3
+Removed Pin From Net: NetName=GND Pin=H1_C132-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C132-3
+Removed Pin From Net: NetName=GND Pin=H1_C142-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C142-3
+Removed Pin From Net: NetName=GND Pin=H1_C152-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C152-3
+Removed Pin From Net: NetName=GND Pin=H1_C162-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C162-3
+Removed Pin From Net: NetName=GND Pin=H1_C172-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C172-3
+Removed Pin From Net: NetName=GND Pin=H1_C182-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C182-3
+Removed Pin From Net: NetName=GND Pin=H1_C192-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C192-3
+Removed Pin From Net: NetName=GND Pin=H1_C202-0
+Removed Pin From Net: NetName=VEXCITE Pin=H1_C202-3
+Removed Pin From Net: NetName=STUB4 Pin=H1_Standard Bridge Board2-0
+Removed Pin From Net: NetName=STUB3 Pin=H1_Standard Bridge Board2-1
+Removed Pin From Net: NetName=STUB1 Pin=H1_Standard Bridge Board2-2
+Removed Pin From Net: NetName=STUB2 Pin=H1_Standard Bridge Board2-3
+Removed Pin From Net: NetName=CONT1 Pin=M1_Stub Tester 2-1
+Removed Pin From Net: NetName=VEXCITE Pin=M1_Stub Tester 2-2
+Removed Pin From Net: NetName=1.25V Pin=M1_Stub Tester 2-3
+Removed Pin From Net: NetName=CONT2 Pin=M2_Stub Tester 2-1
+Removed Pin From Net: NetName=VEXCITE Pin=M2_Stub Tester 2-2
+Removed Pin From Net: NetName=-1.25V Pin=M2_Stub Tester 2-3
+Removed Pin From Net: NetName=GND Pin=P1_Stub Tester 2-11
+Removed Pin From Net: NetName=GND Pin=P1_Stub Tester 2-13
+Removed Pin From Net: NetName=GND Pin=P1_Stub Tester 2-15
+Removed Pin From Net: NetName=VEXCITE Pin=P1_Stub Tester 2-17
+Removed Pin From Net: NetName=VCC- Pin=P1_Stub Tester 2-19
+Removed Pin From Net: NetName=VCC+ Pin=P1_Stub Tester 2-21
+Removed Pin From Net: NetName=CONT1 Pin=P1_Stub Tester 2-23
+Removed Pin From Net: NetName=CONT2 Pin=P1_Stub Tester 2-29
+Removed Pin From Net: NetName=GND Pin=PGA204_C12-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C12-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C12-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C12-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C12-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C12-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C12-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C12-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C22-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C22-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C22-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C22-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C22-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C22-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C22-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C22-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C32-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C32-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C32-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C32-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C32-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C32-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C32-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C32-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C42-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C42-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C42-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C42-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C42-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C42-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C42-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C42-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C52-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C52-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C52-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C52-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C52-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C52-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C52-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C52-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C62-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C62-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C62-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C62-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C62-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C62-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C62-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C62-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C72-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C72-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C72-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C72-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C72-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C72-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C72-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C72-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C82-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C82-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C82-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C82-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C82-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C82-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C82-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C82-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C92-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C92-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C92-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C92-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C92-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C92-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C92-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C92-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C102-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C102-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C102-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C102-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C102-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C102-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C102-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C102-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C112-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C112-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C112-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C112-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C112-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C112-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C112-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C112-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C122-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C122-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C122-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C122-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C122-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C122-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C122-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C122-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C132-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C132-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C132-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C132-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C132-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C132-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C132-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C132-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C142-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C142-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C142-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C142-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C142-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C142-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C142-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C142-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C152-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C152-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C152-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C152-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C152-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C152-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C152-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C152-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C162-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C162-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C162-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C162-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C162-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C162-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C162-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C162-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C172-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C172-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C172-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C172-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C172-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C172-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C172-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C172-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C182-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C182-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C182-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C182-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C182-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C182-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C182-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C182-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C192-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C192-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C192-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C192-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C192-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C192-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C192-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C192-14
+Removed Pin From Net: NetName=GND Pin=PGA204_C202-1
+Removed Pin From Net: NetName=GND Pin=PGA204_C202-6
+Removed Pin From Net: NetName=GND Pin=PGA204_C202-7
+Removed Pin From Net: NetName=VCC- Pin=PGA204_C202-8
+Removed Pin From Net: NetName=GND Pin=PGA204_C202-9
+Removed Pin From Net: NetName=GND Pin=PGA204_C202-10
+Removed Pin From Net: NetName=VCC+ Pin=PGA204_C202-13
+Removed Pin From Net: NetName=GND Pin=PGA204_C202-14
+Removed Pin From Net: NetName=STUB4 Pin=RA_Standard Bridge Board2-0
+Removed Pin From Net: NetName=STUB2 Pin=RA_Standard Bridge Board2-1
+Removed Pin From Net: NetName=STUB3 Pin=RB_Standard Bridge Board2-0
+Removed Pin From Net: NetName=STUB1 Pin=RB_Standard Bridge Board2-1
+Removed Pin From Net: NetName=STUB4 Pin=RT_Standard Bridge Board2-0
+Removed Pin From Net: NetName=STUB3 Pin=RT_Standard Bridge Board2-1
+Removed Pin From Net: NetName=STUB3 Pin=T1_Standard Bridge Board2-0
+Removed Pin From Net: NetName=STUB1 Pin=T1_Standard Bridge Board2-1
+Removed Pin From Net: NetName=STUB2 Pin=T1_Standard Bridge Board2-2
+Removed Pin From Net: NetName=VCC+ Pin=U1_Stub Tester 2-1
+Removed Pin From Net: NetName=1.25V Pin=U1_Stub Tester 2-2
+Removed Pin From Net: NetName=GND Pin=U1_Stub Tester 2-3
+Removed Pin From Net: NetName=-1.25V Pin=U2_Stub Tester 2-1
+Removed Pin From Net: NetName=VCC- Pin=U2_Stub Tester 2-2
+Removed Pin From Net: NetName=VCC- Pin=U2_Stub Tester 2-3
+Removed Pin From Net: NetName=GND Pin=U2_Stub Tester 2-4
+Removed Pin From Net: NetName=-1.25V Pin=U2_Stub Tester 2-5
+Removed Pin From Net: NetName=VCC- Pin=U2_Stub Tester 2-6
+Removed Pin From Net: NetName=VCC- Pin=U2_Stub Tester 2-7
+Change Component Designator: OldDesignator=C1_Stub Tester NewDesignator=C1
+Change Component Designator: OldDesignator=C2_Stub Tester NewDesignator=C2
+Change Component Designator: OldDesignator=C4_Stub Tester NewDesignator=C4
+Change Component Designator: OldDesignator=C6_Stub Tester NewDesignator=C6
+Change Component Designator: OldDesignator=C8_Stub Tester NewDesignator=C8
+Change Component Designator: OldDesignator=C10_C21 NewDesignator=C10_C2
+Change Component Designator: OldDesignator=C10_C31 NewDesignator=C10_C3
+Change Component Designator: OldDesignator=C10_C41 NewDesignator=C10_C4
+Change Component Designator: OldDesignator=C10_C51 NewDesignator=C10_C5
+Change Component Designator: OldDesignator=C10_C61 NewDesignator=C10_C6
+Change Component Designator: OldDesignator=C10_C71 NewDesignator=C10_C7
+Change Component Designator: OldDesignator=C10_C81 NewDesignator=C10_C8
+Change Component Designator: OldDesignator=C10_C91 NewDesignator=C10_C9
+Change Component Designator: OldDesignator=C10_C101 NewDesignator=C10_C10
+Change Component Designator: OldDesignator=C10_C111 NewDesignator=C10_C11
+Change Component Designator: OldDesignator=C10_C121 NewDesignator=C10_C12
+Change Component Designator: OldDesignator=C10_C131 NewDesignator=C10_C13
+Change Component Designator: OldDesignator=C10_C141 NewDesignator=C10_C14
+Change Component Designator: OldDesignator=C10_C151 NewDesignator=C10_C15
+Change Component Designator: OldDesignator=C10_C161 NewDesignator=C10_C16
+Change Component Designator: OldDesignator=C10_C171 NewDesignator=C10_C17
+Change Component Designator: OldDesignator=C10_C181 NewDesignator=C10_C18
+Change Component Designator: OldDesignator=C10_C191 NewDesignator=C10_C19
+Change Component Designator: OldDesignator=C10_C201 NewDesignator=C10_C20
+Change Component Designator: OldDesignator=C11_C21 NewDesignator=C11_C2
+Change Component Designator: OldDesignator=C11_C31 NewDesignator=C11_C3
+Change Component Designator: OldDesignator=C11_C41 NewDesignator=C11_C4
+Change Component Designator: OldDesignator=C11_C51 NewDesignator=C11_C5
+Change Component Designator: OldDesignator=C11_C61 NewDesignator=C11_C6
+Change Component Designator: OldDesignator=C11_C71 NewDesignator=C11_C7
+Change Component Designator: OldDesignator=C11_C81 NewDesignator=C11_C8
+Change Component Designator: OldDesignator=C11_C91 NewDesignator=C11_C9
+Change Component Designator: OldDesignator=C11_C101 NewDesignator=C11_C10
+Change Component Designator: OldDesignator=C11_C111 NewDesignator=C11_C11
+Change Component Designator: OldDesignator=C11_C121 NewDesignator=C11_C12
+Change Component Designator: OldDesignator=C11_C131 NewDesignator=C11_C13
+Change Component Designator: OldDesignator=C11_C141 NewDesignator=C11_C14
+Change Component Designator: OldDesignator=C11_C151 NewDesignator=C11_C15
+Change Component Designator: OldDesignator=C11_C161 NewDesignator=C11_C16
+Change Component Designator: OldDesignator=C11_C171 NewDesignator=C11_C17
+Change Component Designator: OldDesignator=C11_C181 NewDesignator=C11_C18
+Change Component Designator: OldDesignator=C11_C191 NewDesignator=C11_C19
+Change Component Designator: OldDesignator=C11_C201 NewDesignator=C11_C20
+Change Component Designator: OldDesignator=C12_C21 NewDesignator=C12_C2
+Change Component Designator: OldDesignator=C12_C31 NewDesignator=C12_C3
+Change Component Designator: OldDesignator=C12_C41 NewDesignator=C12_C4
+Change Component Designator: OldDesignator=C12_C51 NewDesignator=C12_C5
+Change Component Designator: OldDesignator=C12_C61 NewDesignator=C12_C6
+Change Component Designator: OldDesignator=C12_C71 NewDesignator=C12_C7
+Change Component Designator: OldDesignator=C12_C81 NewDesignator=C12_C8
+Change Component Designator: OldDesignator=C12_C91 NewDesignator=C12_C9
+Change Component Designator: OldDesignator=C12_C101 NewDesignator=C12_C10
+Change Component Designator: OldDesignator=C12_C111 NewDesignator=C12_C11
+Change Component Designator: OldDesignator=C12_C121 NewDesignator=C12_C12
+Change Component Designator: OldDesignator=C12_C131 NewDesignator=C12_C13
+Change Component Designator: OldDesignator=C12_C141 NewDesignator=C12_C14
+Change Component Designator: OldDesignator=C12_C151 NewDesignator=C12_C15
+Change Component Designator: OldDesignator=C12_C161 NewDesignator=C12_C16
+Change Component Designator: OldDesignator=C12_C171 NewDesignator=C12_C17
+Change Component Designator: OldDesignator=C12_C181 NewDesignator=C12_C18
+Change Component Designator: OldDesignator=C12_C191 NewDesignator=C12_C19
+Change Component Designator: OldDesignator=C12_C201 NewDesignator=C12_C20
+Change Component Designator: OldDesignator=H1_C21 NewDesignator=H1_C2
+Change Component Designator: OldDesignator=H1_C31 NewDesignator=H1_C3
+Change Component Designator: OldDesignator=H1_C41 NewDesignator=H1_C4
+Change Component Designator: OldDesignator=H1_C51 NewDesignator=H1_C5
+Change Component Designator: OldDesignator=H1_C61 NewDesignator=H1_C6
+Change Component Designator: OldDesignator=H1_C71 NewDesignator=H1_C7
+Change Component Designator: OldDesignator=H1_C81 NewDesignator=H1_C8
+Change Component Designator: OldDesignator=H1_C91 NewDesignator=H1_C9
+Change Component Designator: OldDesignator=H1_C101 NewDesignator=H1_C10
+Change Component Designator: OldDesignator=H1_C111 NewDesignator=H1_C11
+Change Component Designator: OldDesignator=H1_C121 NewDesignator=H1_C12
+Change Component Designator: OldDesignator=H1_C131 NewDesignator=H1_C13
+Change Component Designator: OldDesignator=H1_C141 NewDesignator=H1_C14
+Change Component Designator: OldDesignator=H1_C151 NewDesignator=H1_C15
+Change Component Designator: OldDesignator=H1_C161 NewDesignator=H1_C16
+Change Component Designator: OldDesignator=H1_C171 NewDesignator=H1_C17
+Change Component Designator: OldDesignator=H1_C181 NewDesignator=H1_C18
+Change Component Designator: OldDesignator=H1_C191 NewDesignator=H1_C19
+Change Component Designator: OldDesignator=H1_C201 NewDesignator=H1_C20
+Change Component Designator: OldDesignator=H1_Standard Bridge Board1 NewDesignator=H1
+Change Component Designator: OldDesignator=M1_Stub Tester NewDesignator=M1
+Change Component Designator: OldDesignator=P1_Stub Tester NewDesignator=P1
+Change Component Designator: OldDesignator=PGA204_C21 NewDesignator=PGA204_C2
+Change Component Designator: OldDesignator=PGA204_C31 NewDesignator=PGA204_C3
+Change Component Designator: OldDesignator=PGA204_C41 NewDesignator=PGA204_C4
+Change Component Designator: OldDesignator=PGA204_C51 NewDesignator=PGA204_C5
+Change Component Designator: OldDesignator=PGA204_C61 NewDesignator=PGA204_C6
+Change Component Designator: OldDesignator=PGA204_C71 NewDesignator=PGA204_C7
+Change Component Designator: OldDesignator=PGA204_C81 NewDesignator=PGA204_C8
+Change Component Designator: OldDesignator=PGA204_C91 NewDesignator=PGA204_C9
+Change Component Designator: OldDesignator=PGA204_C101 NewDesignator=PGA204_C10
+Change Component Designator: OldDesignator=PGA204_C111 NewDesignator=PGA204_C11
+Change Component Designator: OldDesignator=PGA204_C121 NewDesignator=PGA204_C12
+Change Component Designator: OldDesignator=PGA204_C131 NewDesignator=PGA204_C13
+Change Component Designator: OldDesignator=PGA204_C141 NewDesignator=PGA204_C14
+Change Component Designator: OldDesignator=PGA204_C151 NewDesignator=PGA204_C15
+Change Component Designator: OldDesignator=PGA204_C161 NewDesignator=PGA204_C16
+Change Component Designator: OldDesignator=PGA204_C171 NewDesignator=PGA204_C17
+Change Component Designator: OldDesignator=PGA204_C181 NewDesignator=PGA204_C18
+Change Component Designator: OldDesignator=PGA204_C191 NewDesignator=PGA204_C19
+Change Component Designator: OldDesignator=PGA204_C201 NewDesignator=PGA204_C20
+Change Component Designator: OldDesignator=R2_C21 NewDesignator=R2_C2
+Change Component Designator: OldDesignator=R2_C31 NewDesignator=R2_C3
+Change Component Designator: OldDesignator=R2_C41 NewDesignator=R2_C4
+Change Component Designator: OldDesignator=R2_C51 NewDesignator=R2_C5
+Change Component Designator: OldDesignator=R2_C61 NewDesignator=R2_C6
+Change Component Designator: OldDesignator=R2_C71 NewDesignator=R2_C7
+Change Component Designator: OldDesignator=R2_C81 NewDesignator=R2_C8
+Change Component Designator: OldDesignator=R2_C91 NewDesignator=R2_C9
+Change Component Designator: OldDesignator=R2_C101 NewDesignator=R2_C10
+Change Component Designator: OldDesignator=R2_C111 NewDesignator=R2_C11
+Change Component Designator: OldDesignator=R2_C121 NewDesignator=R2_C12
+Change Component Designator: OldDesignator=R2_C131 NewDesignator=R2_C13
+Change Component Designator: OldDesignator=R2_C141 NewDesignator=R2_C14
+Change Component Designator: OldDesignator=R2_C151 NewDesignator=R2_C15
+Change Component Designator: OldDesignator=R2_C161 NewDesignator=R2_C16
+Change Component Designator: OldDesignator=R2_C171 NewDesignator=R2_C17
+Change Component Designator: OldDesignator=R2_C181 NewDesignator=R2_C18
+Change Component Designator: OldDesignator=R2_C191 NewDesignator=R2_C19
+Change Component Designator: OldDesignator=R2_C201 NewDesignator=R2_C20
+Change Component Designator: OldDesignator=RA_Standard Bridge Board1 NewDesignator=RA
+Change Component Designator: OldDesignator=RB_Standard Bridge Board1 NewDesignator=RB
+Change Component Designator: OldDesignator=RT_Standard Bridge Board1 NewDesignator=RT
+Change Component Designator: OldDesignator=T1_Standard Bridge Board1 NewDesignator=T1
+Change Component Designator: OldDesignator=U1_Stub Tester NewDesignator=U1
+Change Component Designator: OldDesignator=U2_Stub Tester NewDesignator=U2
+Added Pin To Net: NetName=GND Pin=C3-0
+Added Pin To Net: NetName=1.25V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C5-0
+Added Pin To Net: NetName=VCC+ Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C7-0
+Added Pin To Net: NetName=VCC- Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C9-0
+Added Pin To Net: NetName=-1.25V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10_C1-0
+Added Pin To Net: NetName=VCC+ Pin=C10_C1-1
+Added Pin To Net: NetName=GND Pin=C11_C1-0
+Added Pin To Net: NetName=GND Pin=C12_C1-0
+Added Pin To Net: NetName=VCC- Pin=C12_C1-1
+Added Pin To Net: NetName=GND Pin=H1_C1-0
+Added Pin To Net: NetName=VEXCITE Pin=H1_C1-3
+Added Pin To Net: NetName=CONT2 Pin=M2-1
+Added Pin To Net: NetName=VEXCITE Pin=M2-2
+Added Pin To Net: NetName=-1.25V Pin=M2-3
+Added Pin To Net: NetName=GND Pin=PGA204_C1-1
+Added Pin To Net: NetName=GND Pin=PGA204_C1-6
+Added Pin To Net: NetName=GND Pin=PGA204_C1-7
+Added Pin To Net: NetName=VCC- Pin=PGA204_C1-8
+Added Pin To Net: NetName=GND Pin=PGA204_C1-9
+Added Pin To Net: NetName=GND Pin=PGA204_C1-10
+Added Pin To Net: NetName=VCC+ Pin=PGA204_C1-13
+Added Pin To Net: NetName=GND Pin=PGA204_C1-14
+Added Pin To Net: NetName=A0_Stub Tester Pin=PGA204_C1-15
+Added Pin To Net: NetName=A1_Stub Tester Pin=PGA204_C1-16
+Change Net Name : Old Net Name=A0_Stub Tester New Net Name=A0
+Change Net Name : Old Net Name=A1_Stub Tester New Net Name=A1
+Change Net Name : Old Net Name=NetC8_Stub Tester_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetH1_C21_1 New Net Name=NetH1_C2_1
+Change Net Name : Old Net Name=NetH1_C21_2 New Net Name=NetH1_C2_2
+Change Net Name : Old Net Name=NetH1_C31_1 New Net Name=NetH1_C3_1
+Change Net Name : Old Net Name=NetH1_C31_2 New Net Name=NetH1_C3_2
+Change Net Name : Old Net Name=NetH1_C41_1 New Net Name=NetH1_C4_1
+Change Net Name : Old Net Name=NetH1_C41_2 New Net Name=NetH1_C4_2
+Change Net Name : Old Net Name=NetH1_C51_1 New Net Name=NetH1_C5_1
+Change Net Name : Old Net Name=NetH1_C51_2 New Net Name=NetH1_C5_2
+Change Net Name : Old Net Name=NetH1_C61_1 New Net Name=NetH1_C6_1
+Change Net Name : Old Net Name=NetH1_C61_2 New Net Name=NetH1_C6_2
+Change Net Name : Old Net Name=NetH1_C71_1 New Net Name=NetH1_C7_1
+Change Net Name : Old Net Name=NetH1_C71_2 New Net Name=NetH1_C7_2
+Change Net Name : Old Net Name=NetH1_C81_1 New Net Name=NetH1_C8_1
+Change Net Name : Old Net Name=NetH1_C81_2 New Net Name=NetH1_C8_2
+Change Net Name : Old Net Name=NetH1_C91_1 New Net Name=NetH1_C9_1
+Change Net Name : Old Net Name=NetH1_C91_2 New Net Name=NetH1_C9_2
+Change Net Name : Old Net Name=NetH1_C101_1 New Net Name=NetH1_C10_1
+Change Net Name : Old Net Name=NetH1_C101_2 New Net Name=NetH1_C10_2
+Change Net Name : Old Net Name=NetH1_C111_1 New Net Name=NetH1_C11_1
+Change Net Name : Old Net Name=NetH1_C111_2 New Net Name=NetH1_C11_2
+Change Net Name : Old Net Name=NetH1_C121_1 New Net Name=NetH1_C12_1
+Change Net Name : Old Net Name=NetH1_C121_2 New Net Name=NetH1_C12_2
+Change Net Name : Old Net Name=NetH1_C131_1 New Net Name=NetH1_C13_1
+Change Net Name : Old Net Name=NetH1_C131_2 New Net Name=NetH1_C13_2
+Change Net Name : Old Net Name=NetH1_C141_1 New Net Name=NetH1_C14_1
+Change Net Name : Old Net Name=NetH1_C141_2 New Net Name=NetH1_C14_2
+Change Net Name : Old Net Name=NetH1_C151_1 New Net Name=NetH1_C15_1
+Change Net Name : Old Net Name=NetH1_C151_2 New Net Name=NetH1_C15_2
+Change Net Name : Old Net Name=NetH1_C161_1 New Net Name=NetH1_C16_1
+Change Net Name : Old Net Name=NetH1_C161_2 New Net Name=NetH1_C16_2
+Change Net Name : Old Net Name=NetH1_C171_1 New Net Name=NetH1_C17_1
+Change Net Name : Old Net Name=NetH1_C171_2 New Net Name=NetH1_C17_2
+Change Net Name : Old Net Name=NetH1_C181_1 New Net Name=NetH1_C18_1
+Change Net Name : Old Net Name=NetH1_C181_2 New Net Name=NetH1_C18_2
+Change Net Name : Old Net Name=NetH1_C191_1 New Net Name=NetH1_C19_1
+Change Net Name : Old Net Name=NetH1_C191_2 New Net Name=NetH1_C19_2
+Change Net Name : Old Net Name=NetH1_C201_1 New Net Name=NetH1_C20_1
+Change Net Name : Old Net Name=NetH1_C201_2 New Net Name=NetH1_C20_2
+Change Net Name : Old Net Name=NetPGA204_C21_11 New Net Name=NetPGA204_C2_11
+Change Net Name : Old Net Name=NetPGA204_C31_11 New Net Name=NetPGA204_C3_11
+Change Net Name : Old Net Name=NetPGA204_C41_11 New Net Name=NetPGA204_C4_11
+Change Net Name : Old Net Name=NetPGA204_C51_11 New Net Name=NetPGA204_C5_11
+Change Net Name : Old Net Name=NetPGA204_C61_11 New Net Name=NetPGA204_C6_11
+Change Net Name : Old Net Name=NetPGA204_C71_11 New Net Name=NetPGA204_C7_11
+Change Net Name : Old Net Name=NetPGA204_C81_11 New Net Name=NetPGA204_C8_11
+Change Net Name : Old Net Name=NetPGA204_C91_11 New Net Name=NetPGA204_C9_11
+Change Net Name : Old Net Name=NetPGA204_C101_11 New Net Name=NetPGA204_C10_11
+Change Net Name : Old Net Name=NetPGA204_C111_11 New Net Name=NetPGA204_C11_11
+Change Net Name : Old Net Name=NetPGA204_C121_11 New Net Name=NetPGA204_C12_11
+Change Net Name : Old Net Name=NetPGA204_C131_11 New Net Name=NetPGA204_C13_11
+Change Net Name : Old Net Name=NetPGA204_C141_11 New Net Name=NetPGA204_C14_11
+Change Net Name : Old Net Name=NetPGA204_C151_11 New Net Name=NetPGA204_C15_11
+Change Net Name : Old Net Name=NetPGA204_C161_11 New Net Name=NetPGA204_C16_11
+Change Net Name : Old Net Name=NetPGA204_C171_11 New Net Name=NetPGA204_C17_11
+Change Net Name : Old Net Name=NetPGA204_C181_11 New Net Name=NetPGA204_C18_11
+Change Net Name : Old Net Name=NetPGA204_C191_11 New Net Name=NetPGA204_C19_11
+Change Net Name : Old Net Name=NetPGA204_C201_11 New Net Name=NetPGA204_C20_11
+Change Net Name : Old Net Name=PRESSURE 2_Stub Tester New Net Name=PRESSURE 2
+Change Net Name : Old Net Name=PRESSURE 3_Stub Tester New Net Name=PRESSURE 3
+Change Net Name : Old Net Name=PRESSURE 4_Stub Tester New Net Name=PRESSURE 4
+Change Net Name : Old Net Name=PRESSURE 5_Stub Tester New Net Name=PRESSURE 5
+Change Net Name : Old Net Name=PRESSURE 6_Stub Tester New Net Name=PRESSURE 6
+Change Net Name : Old Net Name=PRESSURE 7_Stub Tester New Net Name=PRESSURE 7
+Change Net Name : Old Net Name=PRESSURE 8_Stub Tester New Net Name=PRESSURE 8
+Change Net Name : Old Net Name=PRESSURE 9_Stub Tester New Net Name=PRESSURE 9
+Change Net Name : Old Net Name=PRESSURE 10_Stub Tester New Net Name=PRESSURE 10
+Change Net Name : Old Net Name=PRESSURE 11_Stub Tester New Net Name=PRESSURE 11
+Change Net Name : Old Net Name=PRESSURE 12_Stub Tester New Net Name=PRESSURE 12
+Change Net Name : Old Net Name=PRESSURE 13_Stub Tester New Net Name=PRESSURE 13
+Change Net Name : Old Net Name=PRESSURE 14_Stub Tester New Net Name=PRESSURE 14
+Change Net Name : Old Net Name=PRESSURE 15_Stub Tester New Net Name=PRESSURE 15
+Change Net Name : Old Net Name=PRESSURE 16_Stub Tester New Net Name=PRESSURE 16
+Change Net Name : Old Net Name=PRESSURE 17_Stub Tester New Net Name=PRESSURE 17
+Change Net Name : Old Net Name=PRESSURE 18_Stub Tester New Net Name=PRESSURE 18
+Change Net Name : Old Net Name=PRESSURE 19_Stub Tester New Net Name=PRESSURE 19
+Change Net Name : Old Net Name=PRESSURE 20_Stub Tester New Net Name=PRESSURE 20
+Added Pin To Net: NetName=NetH1_C1_1 Pin=H1_C1-1
+Added Pin To Net: NetName=NetH1_C1_1 Pin=PGA204_C1-4
+Added Net: Name=NetH1_C1_1
+Added Pin To Net: NetName=NetH1_C1_2 Pin=H1_C1-2
+Added Pin To Net: NetName=NetH1_C1_2 Pin=PGA204_C1-5
+Added Net: Name=NetH1_C1_2
+Added Pin To Net: NetName=NetPGA204_C1_11 Pin=PGA204_C1-11
+Added Pin To Net: NetName=NetPGA204_C1_11 Pin=PGA204_C1-12
+Added Pin To Net: NetName=NetPGA204_C1_11 Pin=R2_C1-1
+Added Net: Name=NetPGA204_C1_11
+Added Pin To Net: NetName=PRESSURE 1 Pin=C11_C1-1
+Added Pin To Net: NetName=PRESSURE 1 Pin=P1-1
+Added Pin To Net: NetName=PRESSURE 1 Pin=R2_C1-0
+Added Net: Name=PRESSURE 1
+Change Class Name : Old Net Name=C21 New Net Name=C2
+Change Class Name : Old Net Name=C31 New Net Name=C3
+Change Class Name : Old Net Name=C41 New Net Name=C4
+Change Class Name : Old Net Name=C51 New Net Name=C5
+Change Class Name : Old Net Name=C61 New Net Name=C6
+Change Class Name : Old Net Name=C71 New Net Name=C7
+Change Class Name : Old Net Name=C81 New Net Name=C8
+Change Class Name : Old Net Name=C91 New Net Name=C9
+Change Class Name : Old Net Name=C101 New Net Name=C10
+Change Class Name : Old Net Name=C111 New Net Name=C11
+Change Class Name : Old Net Name=C121 New Net Name=C12
+Change Class Name : Old Net Name=C131 New Net Name=C13
+Change Class Name : Old Net Name=C141 New Net Name=C14
+Change Class Name : Old Net Name=C151 New Net Name=C15
+Change Class Name : Old Net Name=C161 New Net Name=C16
+Change Class Name : Old Net Name=C171 New Net Name=C17
+Change Class Name : Old Net Name=C181 New Net Name=C18
+Change Class Name : Old Net Name=C191 New Net Name=C19
+Change Class Name : Old Net Name=C201 New Net Name=C20
+Change Class Name : Old Net Name=Standard Bridge Board1 New Net Name=Standard Bridge Board
+Added Class: Name=C1
+Added Member To Class: ClassName=Stub Tester Member=Component C3 1nF
+Added Member To Class: ClassName=Stub Tester Member=Component C5 1uF
+Added Member To Class: ClassName=Stub Tester Member=Component C7 1uF
+Added Member To Class: ClassName=Stub Tester Member=Component C9 4.7uF
+Added Member To Class: ClassName=Stub Tester Member=Component M2 Si2304BDS
+Change Room Name: Old Name=C151 New Name=Standard Bridge Board
+Change Room Scope: Old Scope=InComponentClass('C151') New Scope=InComponentClass('Standard Bridge Board')

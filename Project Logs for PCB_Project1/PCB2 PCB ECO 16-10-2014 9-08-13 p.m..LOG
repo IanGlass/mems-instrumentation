@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetPGA204_15 Pin=SW2-1
+Removed Pin From Net: NetName=GND Pin=SW2-2
+Removed Member From Class: ClassName=Stub Tester 2 Member=SW2
+Change Component Comment : Designator=R1 Old Comment=330k New Comment=RT0603 330k
+Added Component: Designator=SW0(CL-SB-12B)
+Added Component: Designator=U1(REF3012)
+Added Pin To Net: NetName=NetPGA204_15 Pin=SW0-1
+Added Pin To Net: NetName=GND Pin=SW0-2
+Added Pin To Net: NetName=VCC+ Pin=U1-1
+Added Pin To Net: NetName=VEXCITE Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=NetR0_0 Pin=SW0-0
+Added Net: Name=NetR0_0
+Added Member To Class: ClassName=Stub Tester 2 Member=Component SW0 CL-SB-12B
+Added Member To Class: ClassName=Stub Tester 2 Member=Component U1 REF3012

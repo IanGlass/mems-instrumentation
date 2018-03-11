@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=VEXCITE Pin=P1-1
+Removed Pin From Net: NetName=+VE BRIDGE Pin=P1-2
+Removed Pin From Net: NetName=-VE BRIDGE Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Member From Class: ClassName=Stub Tester 2 Member=P1
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Res2 New DesignItemId=RT0603 330k
+Change Component Comment : Designator=R1 Old Comment=806R New Comment=RT0603 330k
+Change Component Description : Designator=R1 Old Description=Resistor New Description=
+Change Component Library : Designator=R1 Old Library=Miscellaneous Devices.IntLib New Library=Schlib1.SchLib
+Added Component: Designator=C1(C0603 1uF)
+Added Component: Designator=C2(C0603 1uF)
+Added Component: Designator=C3(C0603 1uF)
+Added Component: Designator=C4(C0603 1uF)
+Added Component: Designator=C8(C0603 1uF)
+Added Component: Designator=C9(C0603 1uF)
+Added Pin To Net: NetName=VEXCITE Pin=C1-0
+Added Pin To Net: NetName=VCC+ Pin=C1-1
+Added Pin To Net: NetName=VEXCITE Pin=C2-0
+Added Pin To Net: NetName=VCC+ Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-0
+Added Pin To Net: NetName=VCC+ Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-0
+Added Pin To Net: NetName=VCC+ Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C8-0
+Added Pin To Net: NetName=VEXCITE Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-0
+Added Pin To Net: NetName=VEXCITE Pin=C9-1
+Added Pin To Net: NetName=VCC+ Pin=R1-1
+Added Member To Class: ClassName=Stub Tester 2 Member=Component C1 1nF
+Added Member To Class: ClassName=Stub Tester 2 Member=Component C2 100nF
+Added Member To Class: ClassName=Stub Tester 2 Member=Component C3 10uF
+Added Member To Class: ClassName=Stub Tester 2 Member=Component C4 1uF
+Added Member To Class: ClassName=Stub Tester 2 Member=Component C8 100nF
+Added Member To Class: ClassName=Stub Tester 2 Member=Component C9 1nF
+Added Member To Class: ClassName=Stub Tester 2 Member=Component R1 RT0603 330k

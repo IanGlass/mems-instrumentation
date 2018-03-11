@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=1.25V Pin=M1-2
+Removed Pin From Net: NetName=VEXCITE Pin=M1-3
+Removed Pin From Net: NetName=-1.25V Pin=M2-2
+Removed Pin From Net: NetName=VEXCITE Pin=M2-3
+Added Pin To Net: NetName=VEXCITE Pin=M1-2
+Added Pin To Net: NetName=1.25V Pin=M1-3
+Added Pin To Net: NetName=VEXCITE Pin=M2-2
+Added Pin To Net: NetName=-1.25V Pin=M2-3

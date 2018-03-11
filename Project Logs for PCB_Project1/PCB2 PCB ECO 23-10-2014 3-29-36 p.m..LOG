@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=STUB4 Pin=RA-0
+Removed Pin From Net: NetName=STUB2 Pin=RA-1
+Removed Member From Class: ClassName=Standard Bridge Board Member=RA
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Res2 New DesignItemId=0603 MINI
+Change Component Comment : Designator=R1 Old Comment=806R New Comment=0603 MINI
+Change Component Description : Designator=R1 Old Description=Resistor New Description=
+Change Component Library : Designator=R1 Old Library=Miscellaneous Devices.IntLib New Library=Schlib1.SchLib
+Added Pin To Net: NetName=STUB2 Pin=R1-1
+Added Member To Class: ClassName=Standard Bridge Board Member=Component R1 0603 MINI

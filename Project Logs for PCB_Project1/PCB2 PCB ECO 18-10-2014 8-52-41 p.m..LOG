@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=VCC+ Pin=C3-1
+Removed Pin From Net: NetName=VCC+ Pin=C4-1
+Removed Pin From Net: NetName=1.25V Pin=C8-1
+Removed Pin From Net: NetName=1.25V Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C13-0
+Removed Pin From Net: NetName=VCC- Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C14-0
+Removed Pin From Net: NetName=GND Pin=C15-0
+Removed Pin From Net: NetName=-1.25V Pin=C15-1
+Removed Member From Class: ClassName=Stub Tester 2 Member=C14
+Removed Member From Class: ClassName=Stub Tester 2 Member=C15
+Change Component Comment : Designator=C9 Old Comment=1nF New Comment=4.7uF
+Change Component Comment : Designator=C4 Old Comment=1uF New Comment=100nF
+Change Component Comment : Designator=C3 Old Comment=10uF New Comment=1nF
+Change Component Comment : Designator=C8 Old Comment=100nF New Comment=0.015uF
+Added Component: Designator=C5(C0603 1uF)
+Added Component: Designator=C6(C0603 1uF)
+Added Component: Designator=C7(C0603 1uF)
+Added Pin To Net: NetName=1.25V Pin=C3-1
+Added Pin To Net: NetName=1.25V Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-0
+Added Pin To Net: NetName=VCC+ Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-0
+Added Pin To Net: NetName=VCC+ Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-0
+Added Pin To Net: NetName=VCC- Pin=C7-1
+Added Pin To Net: NetName=-1.25V Pin=C9-1
+Added Pin To Net: NetName=-VE BRIDGE Pin=C13-0
+Added Pin To Net: NetName=+VE BRIDGE Pin=C13-1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=U2-8
+Added Net: Name=NetC8_1
+Added Member To Class: ClassName=Stub Tester 2 Member=Component C5 1uF
+Added Member To Class: ClassName=Stub Tester 2 Member=Component C6 10uF
+Added Member To Class: ClassName=Stub Tester 2 Member=Component C7 1uF
+Added Member To Class: ClassName=Channel Member=Component C13 1000pF
+Added Room: Name=Channel
+Added Room: Name=Stub Tester 2

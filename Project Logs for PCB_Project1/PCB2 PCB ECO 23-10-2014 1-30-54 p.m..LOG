@@ -1,0 +1,5 @@
+Added Component: Designator=T1(Transducer)
+Added Pin To Net: NetName=STUB3 Pin=T1-0
+Added Pin To Net: NetName=STUB1 Pin=T1-1
+Added Pin To Net: NetName=STUB2 Pin=T1-2
+Added Member To Class: ClassName=Standard Bridge Board Member=Component T1 Transducer
