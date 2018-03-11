@@ -1,7 +1,7 @@
 # MEMS-Instrumentation
 Instrumentation for high precision, low-noise sampling of low sensitivity MEMS sensors in Wheatstone bridge configuration. Altium schematics and PCB files are included along with a BoM.
 
-The sensor is mounted in a 'stub tester' and need to be balanced with surface mount resistors, where the circuit can handle 16 sensors concurrently. The circuit needs an external DAQ to quantize samples and has two gain select digital lines designated 'A0' and 'A1' to select 1x, 10x, 100x or 1000x. Anti-aliasing is implemented for signals below 500 Hz and needs to be changed for higher sample rates. On-board V regulators supply +- 1.25 V and are switched with 'Cont1' and 'Cont2'.
+The sensor is mounted in a 'stub tester' and need to be balanced with surface mount resistors, where the circuit can handle 16 sensors concurrently. The circuit needs an external DAQ to quantize samples and has two gain select digital lines designated 'A0' and 'A1' to select 1x, 10x, 100x or 1000x. Anti-aliasing is implemented for signals below 500 Hz and needs to be changed for higher sample rates. On-board V regulators supply +- 1.25 V and are switched with 'Cont1' and 'Cont2'. Boards are 6-layered with internal GND, VCC+, VCC- and VExcite power and ground planes.
 
 CMRR: 124 dB
 
