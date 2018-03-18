@@ -1,14 +1,11 @@
 # MEMS-Instrumentation
 Instrumentation for high precision, low-noise sampling of low sensitivity MEMS sensors in Wheatstone bridge configuration. Altium schematics and PCB files are included along with a BoM.
 
-
-Voltage regulators can be replaced to provide a higher drive voltages.
-
 CMRR: 124 dB
 
 Input Voltage Range: 4.5 V to 5.5 V
 
-Gain: 1x 10x 100x 1,000x
+Gain: 1x, 10x, 100x, or 1,000x
 
 Channels: 16
 
@@ -18,7 +15,7 @@ The circuit needs an external DAQ to quantize samples and has two gain select di
 
 <img src="https://github.com/IanGlass/MEMS-Instrumentation/blob/master/Amplifier_Schematic.jpg" width="700">
 
-The sensor is mounted in a 'stub tester' and need to be balanced with surface mount resistors. The circuit has 16 PGA204 amplifier channels and can handle 16 sensors concurrently.  On-board V regulators supply +- 1.25 V and are switched with 'Cont1' and 'Cont2'. Boards are 6-layered with internal GND, VCC+, VCC- and VExcite power and ground planes.
+The sensor is mounted in a 'stub tester' and need to be balanced with surface mount resistors. The circuit has 16 PGA204 amplifier channels and can handle 16 sensors concurrently.  On-board V regulators supply +- 1.25 V and are switched with 'Cont1' and 'Cont2'. Boards are 6-layered with internal GND, VCC+, VCC- and VExcite power and ground planes. The voltage regulators can be replaced to provide a higher drive voltages.
 
  
 <img src="https://github.com/IanGlass/MEMS-Instrumentation/blob/master/Stub_Tester_Schematic.jpg" width="700"> 
