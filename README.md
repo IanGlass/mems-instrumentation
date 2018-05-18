@@ -1,5 +1,5 @@
 # MEMS-Instrumentation
-Instrumentation for high precision, low-noise sampling of low sensitivity MEMS sensors in Wheatstone bridge configuration. Altium schematics and PCB files are included along with a BoM.
+**Instrumentation for high precision, low-noise sampling of low sensitivity MEMS sensors in Wheatstone bridge configuration. Altium schematics and PCB files are included along with a BoM**
 
 CMRR: 124 dB
 
