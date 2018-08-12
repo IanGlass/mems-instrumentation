@@ -32,6 +32,8 @@ The circuit has 16 PGA204 amplifier channels and can handle 16 sensors concurren
 <p align="center">
 <img src="https://github.com/IanGlass/MEMS-Instrumentation/blob/master/Stub-Tester-Schematic.jpg" width="900">
 </p>
+
+PCB overview showing the 16 channels, a designated area for power regulation ICs, a footprint for the 26 pin ribbon cable header and a single 'stub tester' PCB. 
 <p align="center">
-<img src="https://github.com/IanGlass/MEMS-Instrumentation/blob/master/MEMS-Instrumentation.JPG" width="500">
+<img src="https://github.com/IanGlass/MEMS-Instrumentation/blob/master/MEMS-Instrumentation.JPG" width="700">
 </p>
