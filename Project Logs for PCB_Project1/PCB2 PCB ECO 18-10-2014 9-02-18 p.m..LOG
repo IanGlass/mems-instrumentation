@@ -1,6 +1,0 @@
-Added Component: Designator=H2(Header1x4)
-Added Pin To Net: NetName=A1 Pin=H2-2
-Added Pin To Net: NetName=A0 Pin=H2-3
-Added Member To Class: ClassName=Stub Tester 2 Member=Component H2 Header1x4
-Added Room: Name=Channel
-Added Room: Name=Stub Tester 2

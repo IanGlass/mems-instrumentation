@@ -1,9 +1,0 @@
-Change Component DesignItemId : Designator=RA Old DesignItemId=RT0603 330k New DesignItemId=0603 MINI
-Change Component DesignItemId : Designator=RB Old DesignItemId=RT0603 330k New DesignItemId=0603 MINI
-Change Component DesignItemId : Designator=RT Old DesignItemId=RT0603 330k New DesignItemId=0603 MINI
-Change Component Footprint: Designator=RA Old Footprint=RT0603 330k New Footprint=0603 MINI
-Change Component Footprint: Designator=RB Old Footprint=RT0603 330k New Footprint=0603 MINI
-Change Component Footprint: Designator=RT Old Footprint=RT0603 330k New Footprint=0603 MINI
-Change Component Comment : Designator=RA Old Comment=0603 New Comment=0603 MINI
-Change Component Comment : Designator=RB Old Comment=0603 New Comment=0603 MINI
-Change Component Comment : Designator=RT Old Comment=0603 New Comment=0603 MINI

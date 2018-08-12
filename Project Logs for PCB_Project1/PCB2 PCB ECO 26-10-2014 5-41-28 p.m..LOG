@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=STUB3 Pin=H1-1
-Removed Pin From Net: NetName=STUB1 Pin=H1-2
-Added Pin To Net: NetName=STUB1 Pin=H1-1
-Added Pin To Net: NetName=STUB3 Pin=H1-2
-Added Room: Name=Commercial
-Added Room: Name=LED BRD
-Added Room: Name=Standard Bridge Board

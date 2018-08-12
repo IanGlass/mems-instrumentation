@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=STUB1 Pin=H1-1
-Removed Pin From Net: NetName=STUB2 Pin=H1-3
-Added Pin To Net: NetName=STUB2 Pin=H1-1
-Added Pin To Net: NetName=STUB1 Pin=H1-3

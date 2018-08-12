@@ -1,6 +1,0 @@
-Added Component: Designator=R3(3361P 1M)
-Added Pin To Net: NetName=NetPGA204_6 Pin=R3-0
-Added Pin To Net: NetName=VCC+ Pin=R3-1
-Added Pin To Net: NetName=NetPGA204_7 Pin=R3-2
-Added Member To Class: ClassName=Stub Tester 2 Member=Component R3 1M
-Added Room: Name=Stub Tester 2

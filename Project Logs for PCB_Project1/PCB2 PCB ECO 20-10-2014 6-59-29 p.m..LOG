@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=A1 Pin=P1-27
-Removed Pin From Net: NetName=CONT Pin=P1-28
-Change Component DesignItemId : Designator=P1 Old DesignItemId=XG4C New DesignItemId=XG4C34
-Change Component Footprint: Designator=P1 Old Footprint=XG4C New Footprint=XG4C34
-Change Component Comment : Designator=P1 Old Comment=XG4C New Comment=XG4C34
-Added Pin To Net: NetName=A1 Pin=P1-28
-Added Pin To Net: NetName=CONT Pin=P1-33

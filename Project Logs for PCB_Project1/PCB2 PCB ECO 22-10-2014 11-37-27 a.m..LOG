@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=P1-17
-Removed Pin From Net: NetName=VEXCITE Pin=P1-23
-Added Pin To Net: NetName=VEXCITE Pin=P1-17
-Added Pin To Net: NetName=CONT1 Pin=P1-23

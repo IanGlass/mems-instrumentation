@@ -1,5 +1,0 @@
-Added Component: Designator=M1(Si2302)
-Added Pin To Net: NetName=CONT Pin=M1-1
-Added Pin To Net: NetName=VEXCITE Pin=M1-2
-Added Pin To Net: NetName=1.25V Pin=M1-3
-Added Member To Class: ClassName=Stub Tester 2 Member=Component M1 Si2302

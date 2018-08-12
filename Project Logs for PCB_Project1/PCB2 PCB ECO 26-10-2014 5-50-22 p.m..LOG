@@ -1,4 +1,0 @@
-Added Component: Designator=L1_LED1(OVSPWBCR44)
-Added Pin To Net: NetName=NetL1_LED1_0 Pin=L1_LED1-0
-Added Pin To Net: NetName=NetL1_LED1_1 Pin=L1_LED1-1
-Added Member To Class: ClassName=LED1 Member=Component L1_LED1 (L1) OVSPWBCR44

@@ -1,4 +1,0 @@
-Added Component: Designator=R1(0603 MINI)
-Added Pin To Net: NetName=STUB4 Pin=R1-0
-Added Pin To Net: NetName=STUB2 Pin=R1-1
-Added Member To Class: ClassName=Standard Bridge Board Member=Component R1 0603 MINI

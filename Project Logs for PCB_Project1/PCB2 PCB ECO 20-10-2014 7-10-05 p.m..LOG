@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=PRESSURE 6 Pin=P1-6
-Removed Pin From Net: NetName=PRESSURE 7 Pin=P1-7
-Removed Pin From Net: NetName=PRESSURE 9 Pin=P1-9
-Removed Pin From Net: NetName=PRESSURE 10 Pin=P1-10
-Added Pin To Net: NetName=PRESSURE 10 Pin=P1-6
-Added Pin To Net: NetName=PRESSURE 9 Pin=P1-7
-Added Pin To Net: NetName=PRESSURE 7 Pin=P1-9
-Added Pin To Net: NetName=PRESSURE 6 Pin=P1-10
